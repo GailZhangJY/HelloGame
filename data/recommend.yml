@@ -1,0 +1,7 @@
+- taxonomy: 主站推荐
+  icon: far fa-star
+  links:
+    - title: AI异想录
+      logo: wechat_logo.png
+      qrcode: web/wechat.jpg
+      description: 站长公众号：AI异想录

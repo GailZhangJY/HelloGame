@@ -1,0 +1,25 @@
+- item: 在线反馈/交流/联系
+  icon: fas fa-comments
+  link: https://x.com/zhangjy929
+
+- item: 免责声明
+  popup: true
+  icon: fas fa-user-secret
+  popupID: show-disclaimer
+
+- item: 站长作品
+  icon: fas fa-spider
+  link: ""
+  list:
+    - name: 游知 - HelloGame
+      icon: fas fa-caret-right
+      link: https://hellogame.one/
+    - name: 文捕 - BlogKeeper
+      icon: fas fa-caret-right
+      link: https://blog-keeper.com/
+    - name: 文造阁 - PostForge
+      icon: fas fa-caret-right
+      link: https://postforge.zhangjy.me/
+    - name: AI异想录
+      icon: fas fa-caret-right
+      link: https://img.hellogame.one/web/wechat.jpg
