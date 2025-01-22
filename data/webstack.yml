@@ -1,1 +1,68 @@
+- taxonomy: 行业资讯
+  icon: fas fa-newspaper
+  links:
 
+- taxonomy: 游戏名人堂
+  icon: fas fa-user
+
+- taxonomy: Unity3D
+  icon: fab fa-unity
+  list:
+     - term: UI
+     - term: 网络
+     - term: 多语言
+     - term: SDK
+     - term: Editor
+     - term: 插件
+     - term: 性能优化
+     - term: Android
+     - term: iOS
+
+- taxonomy: 技术美术
+  icon: fab fa-artstation
+  list:
+     - term: 美术基础
+     - term: 绘图建模
+     - term: Shader
+     - term: 渲染
+
+- taxonomy: 独立游戏
+  icon: fas fa-tools
+  list:
+     - term: 美术素材
+     - term: 音乐
+     - term: Steam
+
+- taxonomy: 计算机基础
+  icon: fas fa-computer
+  list:
+     - term: C/C++
+     - term: C#
+     - term: Lua
+     - term: 计算机网络
+     - term: 操作系统
+     - term: 算法
+     - term: 数据库
+     - term: 版本管理
+
+- taxonomy: 书单分享
+  icon: fas fa-book
+  list:
+
+- taxonomy: 面试分享
+  icon: fas fa-comments
+  list:
+
+- taxonomy: 常用工具
+  icon: fas fa-tools
+  list:
+    - term: 在线工具
+      links:
+      - title: Json格式化
+        logo: json.png
+        url: http://json.cn/
+        description: 在线格式化JSON文本
+
+- taxonomy: 游戏必玩佳作
+  icon: fas fa-gamepad
+  list:
