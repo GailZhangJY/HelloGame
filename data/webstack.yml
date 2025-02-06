@@ -20,6 +20,10 @@
     logo: icon_www_bilibili_com.png
     title: 手打·米哈游员工手册
     url: https://www.bilibili.com/read/readlist/rl572345
+  - description: 独立精神 独立游戏
+    logo: icon_indienova_com.png
+    title: INDIENOVA
+    url: https://indienova.com/
   taxonomy: 行业资讯
 - icon: fas fa-user
   links: []
@@ -68,6 +72,18 @@
       logo: icon_unity_cn.png
       title: Unity社区
       url: https://developer.unity.cn/
+    - description: UWA学堂
+      logo: icon_uwa4d_com.png
+      title: UWA学堂
+      url: https://edu.uwa4d.com/
+    - description: UWA问答
+      logo: icon_uwa4d_com.png
+      title: UWA问答
+      url: https://answer.uwa4d.com/
+    - description: UWA博客
+      logo: icon_uwa4d_com.png
+      title: UWA博客
+      url: https://blog.uwa4d.com/
     term: Unity官方
   - links:
     - description: 火星时代实训基地
@@ -195,7 +211,7 @@
       logo: icon_www_cnblogs_com.png
       title: 游戏程序员刘宇
       url: https://www.cnblogs.com/xiaohutu
-    - description: 主要关注3D游戏引擎，游戏开发过程中的知识体系
+    - description: 《仙剑奇侠传3》主程，《功夫世界》《龙Online》引擎开发者，Unreal Engine技术践行者，实践派架构师，现任腾讯IEG专家工程师，曾任阿里巴巴高级技术专家。
       logo: icon_neil3d_github_io.png
       title: 房燕良-游戏程序员的自我修养
       url: https://neil3d.github.io/index.html
@@ -340,10 +356,324 @@
       logo: csdn_cubesky.png
       title: xak
       url: https://blog.csdn.net/cubesky/
+    - description: 风宇冲-新浪博客Shader
+      logo: icon_blog_sina_com_cn.png
+      title: 风宇冲
+      url: https://blog.sina.com.cn/lsy835375
+    - description: 游戏开发：Unity
+      logo: icon_gypsumlabs_github_io.png
+      title: Gypsum Shen
+      url: https://gypsumlabs.github.io/
+    - description: 游戏开发：Unity
+      logo: csdn_OnafioO.png
+      title: 000000000000O
+      url: https://blog.csdn.net/OnafioO
+    - description: 游戏开发：Unity
+      logo: csdn_book_longssl.png
+      title: 七大黍
+      url: https://blog.csdn.net/book_longssl
+    - description: QFramework 作者 游戏开发&Unity 教程作者 独立游戏开发者 自由职业者 Unity 开发者 Popping Dancer
+        作曲、像素画初学者
+      logo: icon_liangxiegame_com.png
+      title: 凉鞋的笔记
+      url: https://liangxiegame.com/
+    - description: 冯乐乐-Unity Shader入门精要作者
+      logo: csdn_candycat1992.png
+      title: 妈妈说女孩子要自立自强
+      url: https://blog.csdn.net/candycat1992/
+    - description: 微软MVP，著作《Windows游戏编程之从零开始》，《OpenCV3编程入门》。热爱游戏引擎、游戏开发、图形学、Unreal、Unity3D等技术。
+      logo: csdn_poem_qianmo.png
+      title: 浅墨_毛星云
+      url: https://blog.csdn.net/poem_qianmo/
+    - description: 软件工程师，从事3D虚拟现实工作，爱好编程！Ogre3d,Unity3d虚拟现实开发
+      logo: csdn_andyhebear.png
+      title: RainsSoft
+      url: https://blog.csdn.net/andyhebear/
+    - description: 游戏开发：Unity D3D C++
+      logo: icon_www_cnblogs_com.png
+      title: oayx
+      url: https://www.cnblogs.com/lancidie
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: 玄雨
+      url: https://www.cnblogs.com/coldcode
+    - description: 游戏开发：Unity FairyGUI
+      logo: csdn_BuladeMian.png
+      title: BuladeMian
+      url: https://blog.csdn.net/BuladeMian
+    - description: 游戏开发：Unity UE4
+      logo: csdn_liang_704959721.png
+      title: liang_704959721
+      url: https://blog.csdn.net/liang_704959721
+    - description: 游戏开发：Unity Cocos2d-x
+      logo: icon_www_cnblogs_com.png
+      title: 杭者
+      url: https://www.cnblogs.com/HangZhe
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: U_探索
+      url: https://www.cnblogs.com/U-tansuo
+    - description: 游戏开发程序员，擅长Unity3D，游戏开发，.NET
+      logo: icon_www_cnblogs_com.png
+      title: 赵青青-Qing's Blog
+      url: https://www.cnblogs.com/zhaoqingqing
+    - description: 游戏开发：Unity Shader
+      logo: csdn_huutu.png
+      title: _Captain
+      url: https://blog.csdn.net/huutu
+    - description: 游戏开发：Unity
+      logo: csdn_alayeshi.png
+      title: 紫龙大侠
+      url: https://blog.csdn.net/alayeshi
+    - description: 游戏开发
+      logo: csdn_rcfalcon.png
+      title: 码农CGGG
+      url: https://blog.csdn.net/rcfalcon
+    - description: 游戏开发：Unity
+      logo: csdn_.png
+      title: TxNet.Ltd.
+      url: https://passion.blog.csdn.net/
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: 阿诚de窝
+      url: https://www.cnblogs.com/hammerc
+    - description: 游戏开发：Unity
+      logo: csdn_husheng0.png
+      title: 胡胜同学
+      url: https://blog.csdn.net/husheng0/
+    - description: 游戏开发：Unity
+      logo: csdn_ecidevilin.png
+      title: 凯奥斯
+      url: https://blog.csdn.net/ecidevilin
+    - description: Unity游戏开发者
+      logo: icon_wangshucheng_github_io.png
+      title: 游戏人生
+      url: https://wangshucheng.github.io/
+    - description: 游戏开发：Unity
+      logo: csdn_sinat_20559947.png
+      title: Zok93
+      url: https://blog.csdn.net/sinat_20559947
+    - description: 一个普普通通的程序，主要从事unity3d相关的游戏开发工作
+      logo: csdn_anyuanlzh.png
+      title: 阿海-程序员
+      url: https://blog.csdn.net/anyuanlzh/
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: 海底世界
+      url: https://www.cnblogs.com/jeason1997
+    - description: 畅销书作者，著作：《手把手教你3D游戏引擎架构》、《Unity3D实战核心技术详解》,《Cocos2d-x 3.x 图形学渲染技术讲解》等。
+      logo: csdn_jxw167.png
+      title: 姜雪伟-海洋_
+      url: https://blog.csdn.net/jxw167
+    - description: 游戏开发：Unity Shder C++
+      logo: csdn_puppet_master.png
+      title: puppet_master
+      url: https://blog.csdn.net/puppet_master
+    - description: Thinking, Coding && Writing
+      logo: icon_wuzhiwei_net.png
+      title: Tim's Blog
+      url: https://wuzhiwei.net/
+    - description: 游戏开发：Unity
+      logo: icon_codebug_top.png
+      title: CodeBug
+      url: https://codebug.top/
+    - description: 游戏开发：Unity Egret布道师
+      logo: icon_max2d_com.png
+      title: A闪的BLOG
+      url: https://max2d.com/
+    - description: 游戏开发：Unity Lua
+      logo: icon_www_cnblogs_com.png
+      title: 细雨淅淅
+      url: https://www.cnblogs.com/zsb517
+    - description: 游戏开发：Unity QFramework
+      logo: icon_www_cnblogs_com.png
+      title: 凉鞋的笔记
+      url: https://www.cnblogs.com/liangxiegame
+    - description: UWA BLOG
+      logo: icon_unity_cn.png
+      title: UWA BLOG
+      url: https://blog.uwa4d.com/
+    - description: 麒麟子 09年进入游戏行业，从事3D引擎研发相关工作。一路看好Cocos引擎的发展，不定期输出Cocos Creator 3D教程
+      logo: icon_www_cnblogs_com.png
+      title: 麒麟子的专栏
+      url: https://www.cnblogs.com/qilinzi
+    - description: Thoughts, stories and ideas.
+      logo: icon_www_kisence_com.png
+      title: kisence
+      url: https://www.kisence.com/
+    - description: 游戏程序员、《游戏引擎架构》译者
+      logo: icon_zhuanlan_zhihu_com.png
+      title: Milo的编程
+      url: https://zhuanlan.zhihu.com/milocode
+    - description: 游戏开发
+      logo: icon_abaojin_github_io.png
+      title: abaojin
+      url: https://abaojin.github.io/
+    - description: Godot 积极布道者
+      logo: icon_liuqingwen_me.png
+      title: liuqingwen
+      url: https://liuqingwen.me/
+    - description: Full-time solo indie game developer.
+      logo: icon_unity_cn.png
+      title: Frankie
+      url: https://duzhi5368.github.io/
+    - description: CSDN博客专家、Unity3D领域优质创作者，专注于VR、虚拟仿真开发。 《Unity 3D从入门到实战》作者。
+      logo: csdn_q764424567.png
+      title: 恬静的小魔龙
+      url: https://blog.csdn.net/q764424567
+    - description: 游戏开发：Unity
+      logo: csdn_wpapa.png
+      title: rrtt_2323
+      url: https://blog.csdn.net/wpapa
+    - description: 独立游戏开发-很有意思的一个网站
+      logo: icon_unity_cn.png
+      title: L's Blog
+      url: https://www.liuocean.com/
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: yaukeywang's Cafe.
+      url: https://www.cnblogs.com/yaukey
+    - description: 汽车CFD仿真工程师 -> 独立游戏开发者 -> 游戏程序员  喜欢coding，喜欢学习coding。主要搞Cocos2d-x和Unity3D，这里记录的是平时学习和工作中的一些笔记或心得。
+      logo: icon_aillieo_cn.png
+      title: Aillieo
+      url: https://aillieo.cn/
+    - description: 游戏开发：Unity
+      logo: csdn_qq_34937637.png
+      title: cchoop的博客
+      url: https://blog.csdn.net/qq_34937637
+    - description: Unity合作伙伴、程序开发公司CEO、CSDN万粉博主。 XR开发、原生交互、程序开发、游戏开发。
+      logo: csdn_weixin_38239050.png
+      title: 星河造梦坊官方丨程序开发
+      url: https://blog.csdn.net/weixin_38239050
+    - description: 游戏开发：Unity
+      logo: csdn_qq_34035956.png
+      title: Kerven_HKW
+      url: https://blog.csdn.net/qq_34035956
+    - description: 游戏开发：Unity
+      logo: csdn_qq_39860954.png
+      title: Gipsyz
+      url: https://blog.csdn.net/qq_39860954
+    - description: I'm Brazilian and I like to make games and tools by basically converting
+        pizza into code. 👨🏻‍💻
+      logo: icon_github_com.png
+      title: Bruno Mikoski
+      url: https://github.com/brunomikoski
+    - description: 游戏开发：Unity Lua
+      logo: icon_kidfreedom_github_io.png
+      title: 王梓臣的博客
+      url: https://kidfreedom.github.io/
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: zblade
+      url: https://www.cnblogs.com/zblade
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: OtusScops
+      url: https://www.cnblogs.com/OtusScops
+    - description: 游戏开发：Unity
+      logo: icon_peakcoder_com.png
+      title: 浪浪山外
+      url: https://peakcoder.com/
+    - description: 游戏开发：Unity
+      logo: icon_www_cnblogs_com.png
+      title: 嘿，阿然
+      url: https://www.cnblogs.com/AranNice
+    - description: Henry，多年游戏服务器开发经验，著有《深度解析Java游戏服务器开发》《cocos2d-js的快速入门与实践》等技术书籍，专注于游戏开发，服务器技术，编程，算法，个人成长分享等。
+      logo: test.png
+      title: Henry-开发技术分享
+      url: https://www.hjcenry.com/
+    - description: java游戏服务端~我的学习之路
+      logo: icon_lizb0907_github_io.png
+      title: lizb0907
+      url: https://lizb0907.github.io/
+    - description: 上海市第八中学物理信息组 嗯 教物理 也教编程
+      logo: icon_enjoyphysics_cn.png
+      title: physicsteam
+      url: https://enjoyphysics.cn/Soft/Program
+    - description: 游戏开发：Unity
+      logo: icon_s0nreir_github_io.png
+      title: S0nrEir's Blog
+      url: https://s0nreir.github.io/
+    - description: 游戏开发：Unity 编程人生
+      logo: icon_www_playcreator_cn.png
+      title: 温文的小屋
+      url: https://www.playcreator.cn/
+    - description: 游戏开发：Unity
+      logo: icon_potatoyz_tech.png
+      title: Potato's Blog
+      url: https://potatoyz.tech/Collection/Unity/
+    - description: 致力于3D技术及解决方案上的分享
+      logo: icon_www_u3dc_com.png
+      title: 优三帝研究院
+      url: https://www.u3dc.com/
+    - description: 用实力让情怀落地。
+      logo: icon_www_zhihu_com.png
+      title: 侑虎科技-张鑫
+      url: https://www.zhihu.com/people/zhang-xin-81-92-50
+    - description: 游戏开发 Unity TTEngine作者
+      logo: icon_www_cnblogs_com.png
+      title: 疯光无线的胡言乱语
+      url: https://www.cnblogs.com/crazylights
+    - description: Game Tech Articles
+      logo: icon_www_kodeco_com.png
+      title: Game Tech Articles
+      url: https://www.kodeco.com/gametech
+    - description: 游戏开发
+      logo: icon_blog_ihaiu_com.png
+      title: 爱海游
+      url: https://blog.ihaiu.com/
+    - description: 游戏开发
+      logo: icon_qiankanglai_me.png
+      title: 钱康来
+      url: https://qiankanglai.me/
+    - description: 游戏开发：一个游戏开发的周总结
+      logo: csdn_default.png
+      title: Drecik's Blog
+      url: https://drecik.top/
+    - description: 熟悉skynet 熟悉cocos2dx 熟悉c/c++和lua Lua解释器构建：从虚拟机到编译器》一书作者。
+      logo: csdn_default.png
+      title: Manistein's Blog
+      url: https://manistein.github.io/
+    - description: 游戏开发：UE Lua
+      logo: icon_yuerer_com.png
+      title: Yuerer's Blog
+      url: https://yuerer.com/
     term: 文章博主
-  - links: []
+  - links:
+    - description: 游戏开发者，专注于Unity 3D 开发，独立游戏《卡迪恩防线》作者
+      logo: bilibili_439462379.png
+      title: 风宇冲
+      url: https://space.bilibili.com/439462379
+    - description: 游戏客户端开发
+      logo: icon_gameinstitute_qq_com.png
+      title: 腾讯游戏课堂
+      url: https://gameinstitute.qq.com/course/%E6%8A%80%E6%9C%AF/%E6%B8%B8%E6%88%8F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91
+    - description: 泰课在线
+      logo: icon_www_taikr_com.png
+      title: 泰课在线
+      url: https://www.taikr.com/
+    - description: Unity 虚幻 Cocos课程
+      logo: icon_www_sikiedu_com.png
+      title: siki学院
+      url: https://www.sikiedu.com/
+    - description: Unity 技术布道 / 生活知识科普 / 旅行游玩攻略
+      logo: bilibili_297963380.png
+      title: Unity喵
+      url: https://space.bilibili.com/297963380
+    - description: Unity脚本进阶、VRTK、Unit技能系统、Unity有限状态机、Unity动画系统
+      logo: bilibili_48623242.png
+      title: 精彩体验
+      url: https://space.bilibili.com/48623242
     term: 视频博主
   - links:
+    - description: Unity官方
+      logo: icon_github_com.png
+      title: Unity Technologies
+      url: https://github.com/Unity-Technologies
+    - description: xLua为Unity、 .Net、 Mono等C#环境增加Lua脚本编程的能力，借助xLua，这些Lua代码可以方便的和C#相互调用。
+      logo: icon_github_com.png
+      title: XLua
+      url: https://tencent.github.io/xLua/public/v1/guide/index.html
     - description: 马三小伙Unity大杂烩
       logo: icon_github_com.png
       title: Unity杂货铺
@@ -352,6 +682,18 @@
       logo: icon_github_com.png
       title: anything_about_game
       url: https://github.com/killop/anything_about_game
+    - description: 基于Unity引擎的游戏框架
+      logo: icon_gameframework_cn.png
+      title: Game Framework
+      url: https://gameframework.cn/
+    - description: a comprehensive collection of video game tech analysis resources
+      logo: icon_github_com.png
+      title: Awesome-Game-Analysis
+      url: https://github.com/OTFCG/Awesome-Game-Analysis
+    - description: The fastest unity lua binding solution
+      logo: icon_github_com.png
+      title: tolua
+      url: https://github.com/topameng/tolua
     term: 开源项目
   - links:
     - description: 用程序改变世界，用音乐改变生活
@@ -372,6 +714,24 @@
       logo: icon_github_com.png
       title: gsxd_unity
       url: https://github.com/unwrap/gsxd_unity
+    - description: 《群侠传，启动！》 是一个开放源代码的武侠RPG游戏框架，旨在致敬经典游戏《金庸群侠传》，并为此类游戏爱好者提供一个二次创作与交流的平台。
+        你可以体验样例工程《渡城残魂传》，扮演灵魂穿越附身于小乞丐的莫桥山庄掌门人“莫穿林”，解开自己死亡之谜。
+      logo: icon_github_com.png
+      title: 群侠传，启动
+      url: https://github.com/jynew/jynew
+    - description: 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis Plus；后台为Vue
+        + Element；游戏端采用QFramework框架，Addressable+HybridCLR实现热更新，支持KCP和WebSocket网络。
+      logo: icon_github_com.png
+      title: CrazyCar
+      url: https://github.com/TastSong/CrazyCar
+    - description: HelloGithub游戏榜
+      logo: icon_hellogithub_com.png
+      title: HelloGithub游戏榜
+      url: https://hellogithub.com/?sort_by=featured&tid=WxuLqCrUNF
+    - description: 中文MUD源代码大全
+      logo: icon_github_com.png
+      title: MudChina
+      url: https://github.com/mudchina
     term: 开源游戏
   - links:
     - description: GameAIPro 简明中文索引
@@ -400,6 +760,10 @@
   links: []
   list:
   - links:
+    - description: A Study Path for Game Programmer
+      logo: icon_github_com.png
+      title: game-programmer
+      url: https://github.com/miloyip/game-programmer/
     - description: good good study,day day up
       logo: icon_github_com.png
       title: game-book-list
@@ -419,6 +783,24 @@
       title: 游戏引擎 浅入浅出
       url: https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md
     term: 图形学
+  - links:
+    - description: 游戏编程模式
+      logo: icon_gpp_tkchu_me.png
+      title: 游戏编程模式
+      url: https://gpp.tkchu.me/
+    - description: 本书首先介绍了Lua中的数据结构，比如通用数据是如何表示的、Lua的字符串以及表类型的实现原理，接着讨论了Lua虚拟机的实现，并且将其中重点的一些指令进行了分类讲解，最后讨论了垃圾回收、模块实现、热更新、协程等的实现原理。
+      logo: book_27108476.jpg
+      title: Lua设计与实现
+      url: https://book.douban.com/subject/27108476/
+    - description: 这本久负盛名的 C++ 经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++
+        大师 Stanley B. Lippman 的丰富实践经验，C++标准委员会原负责人 Josée Lajoie 对C++标准的深入理解，以及C+ +
+        先驱 Barbara E. Moo 在 C++教学方面的真知灼见外，更是基于全新的 C++11标准进行了全面而彻底的内容更新。非常难能可贵的是，本书所有示例均全部采用
+        C++11 标准改写，这在经典升级版中极其罕见——充分体现了 C++ 语言的重大进展及其全面实践。书中丰富的教学辅助内容、醒目的知识点提示，以及精心组织的编程示范，让这本书在
+        C++ 领域的权威地位更加不可动摇。无论是初学者入门，或是中、高级程序员提升，本书均为不容置疑的首选。
+      logo: book_25708312.jpg
+      title: C++ Primer 中文版（第 5 版）
+      url: https://book.douban.com/subject/25708312/
+    term: 编程开发
   taxonomy: 书单分享
 - icon: fab fa-artstation
   links: []
@@ -498,6 +880,10 @@
       logo: test.png
       title: Sascha Willems
       url: https://www.saschawillems.de/
+    - description: 愿天下心诚剑士人人可剑开天门！
+      logo: icon_www_lfzxb_top.png
+      title: 烟雨迷离半世殇
+      url: https://www.lfzxb.top/
     term: Blog
   - links:
     - description: HLSL Shader
@@ -505,6 +891,12 @@
       title: Ben Cloward-HLSL Shader
       url: https://www.youtube.com/watch?v=MKio4MNM3CI
     term: 视频教程
+  - links:
+    - description: Implementing a Soft Renderer for Learning CG.
+      logo: icon_github_com.png
+      title: YwSoftRenderer
+      url: https://github.com/yaukeywang/YwSoftRenderer
+    term: Github
   taxonomy: 技术美术
 - icon: fas fa-tools
   links: []
@@ -531,7 +923,28 @@
       logo: icon_www_mixamo_com.png
       title: mixamo
       url: https://www.mixamo.com/
+    - description: 3D模型动作
+      logo: icon_sketchfab_com.png
+      title: Sketchfab
+      url: https://sketchfab.com/3d-models/popular
     term: 模型
+  - links:
+    - description: the incomplete works of Madeline Stephanie Thorson lifelong maker
+        of games
+      logo: icon_www_maddymakesgames_com.png
+      title: MADDY MAKES GAMES
+      url: https://www.maddymakesgames.com/
+    term: 独立游戏
+  - links:
+    - description: 游戏开发资源
+      logo: icon_indienova_com.png
+      title: INDIENOVA-游戏开发资源
+      url: https://indienova.com/sp/gameDevResource
+    - description: PlayMaker
+      logo: icon_hutonggames_com.png
+      title: PlayMaker
+      url: https://hutonggames.com/
+    term: 临时
   taxonomy: 独立游戏
 - icon: fas fa-comments
   links:
@@ -547,10 +960,41 @@
     logo: icon_github_com.png
     title: Unity-Programmer-Notes
     url: https://github.com/ytqqwer/Unity-Programmer-Notes
+  - description: 木木不甜-U3D面试题
+    logo: icon_www_cnblogs_com.png
+    title: 木木不甜-U3D面试题
+    url: https://www.cnblogs.com/1217224194-jiang/tag/U3d%E9%9D%A2%E8%AF%95%E9%A2%98/
   taxonomy: 面试分享
 - icon: fas fa-computer
   links: []
   list:
+  - links:
+    - description: 廖雪峰的官方网站
+      logo: icon_liaoxuefeng_com.png
+      title: 廖雪峰的官方网站
+      url: https://liaoxuefeng.com/
+    - description: 享受编程和技术所带来的快乐 – Coding Your Ambition
+      logo: icon_coolshell_cn.png
+      title: 酷 壳 – CoolShell
+      url: https://coolshell.cn/
+    - description: 我有一个伟大的愿望。我希望凭借自己的努力，净化程序员的环境，提升程序员的地位。愿 IT 界再无黑心企业的剥削，无人自嘲 “码农”、“码畜”，技术人员受到足够尊重，写程序重新成为一种创造性的劳动。软件行业，重新成为令人羡慕的行业。自由、开放、创新、包容。
+      logo: icon_www_raychase_net.png
+      title: 四火的唠叨
+      url: https://www.raychase.net/
+    - description: 知道创宇研发技能表v3.1
+      logo: test.png
+      title: 知道创宇研发技能表v3.1
+      url: https://blog.knownsec.com/Knownsec_RD_Checklist/index.html
+    - description: Ubuntu 中文站点是关于 Ubuntu Linux 的中文支持站点，是一个 Ubuntu 官方所认可的社区，担负发行版中文翻译、开发、以及提供本地化支持的职能。   Ubuntu
+        中文 Wiki 是一个为 Ubuntu Linux 编写文档的非盈利性 Wiki 站点，我们在这里创作、改进、收集和整理 Ubuntu 相关的中文文档
+      logo: icon_wiki_ubuntu_org_cn.png
+      title: Ubuntu中文Wiki
+      url: https://wiki.ubuntu.org.cn/
+    - description: 编程与调试 图形学 机器学习
+      logo: icon_blog_hawkhai_com.png
+      title: NoteAI
+      url: https://blog.hawkhai.com/
+    term: Blog大牛
   - links:
     - description: Lua官网
       logo: icon_www_lua_org.png
@@ -568,6 +1012,40 @@
       logo: icon_liaoxuefeng_com.png
       title: Python 3教程-廖雪峰
       url: https://liaoxuefeng.com/books/python/introduction/index.html
+    - description: 先做人，再做技术人员，最后做程序员。打造国内最好的.NET技术博客。
+      logo: icon_blog_zhaojie_me.png
+      title: 老赵点滴 - 追求编程之美
+      url: http://blog.zhaojie.me/
+    - description: A curated list of awesome C++ (or C) frameworks, libraries, resources,
+        and shiny things.
+      logo: icon_github_com.png
+      title: awesome-cpp
+      url: https://github.com/fffaraz/awesome-cpp
+    - description: C# 指南包含文章、教程和代码示例，可帮助你开始使用 C# 和 .NET 平台。 经验丰富的开发人员可以在“新增功能”部分了解新功能。
+        经验丰富的开发人员可以从参考和语言规范中了解语言行为的详细信息。
+      logo: icon_learn_microsoft_com.png
+      title: C# 语言文档-微软官方
+      url: https://learn.microsoft.com/zh-cn/dotnet/csharp/
+    - description: Effective C# 改善C#程序的50种方法
+      logo: test.png
+      title: Effective C# 改善C#程序的50种方法
+      url: https://wizardforcel.gitbooks.io/effective-csharp/content/index.html
+    - description: .NET and Windows App Developer, Microsoft MVP
+      logo: icon_blog_walterlv_com.png
+      title: 吕毅
+      url: https://blog.walterlv.com/about/
+    - description: C#.Net筑基
+      logo: icon_www_cnblogs_com.png
+      title: /*梦里花落知多少*/-@安木夕
+      url: https://www.cnblogs.com/anding
+    - description: 在香港做程序员的北京人。2012年起至现在一直从事.NET平台的C#开发。平时喜欢研究技术，广交朋友，锻炼身体，和朋友聚会扯淡。
+      logo: icon_www_cnblogs_com.png
+      title: Due勤奋的猪
+      url: https://www.cnblogs.com/haoyifei
+    - description: 菜鸟教程 - 学的不仅是技术，更是梦想！
+      logo: icon_www_runoob_com.png
+      title: 菜鸟教程
+      url: https://www.runoob.com/
     term: 编程语言
   - links:
     - description: LeetCode
@@ -595,6 +1073,16 @@
       title: liuchuo-柳婼
       url: https://github.com/liuchuo
     term: 数据结构与算法
+  - links: []
+    term: 网络与操作系统
+  - links: []
+    term: 数据库
+  - links:
+    - description: Git 的奇技淫巧
+      logo: icon_github_com.png
+      title: git-tips
+      url: https://github.com/521xueweihan/git-tips
+    term: 版本管理
   taxonomy: 计算机基础
 - icon: fas fa-tools
   links: []
@@ -619,6 +1107,12 @@
       title: Json再出现格式化2
       url: http://json.cn/
     term: Test3
+  - links:
+    - description: 一款基于纯C++实现的独立的Lua编辑和调试工具
+      logo: icon_github_com.png
+      title: LuaPerfect
+      url: https://github.com/jiangzheng1986/LuaPerfect
+    term: 开源工具
   taxonomy: 常用工具
 - icon: fas fa-gamepad
   links: []
