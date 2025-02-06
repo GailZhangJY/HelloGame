@@ -743,12 +743,6 @@
       title: Unity-Tech-Cn
       url: https://plastichub.unity.cn/unity-tech-cn
     term: 有点组织
-  - links: []
-    term: iOS
-  - links: []
-    term: SDK
-  - links: []
-    term: 多语言
   - links:
     - description: 关于数学和编程方面的文章
       logo: icon_pywonderland_com.png
@@ -770,28 +764,27 @@
       url: https://github.com/killop/game-book-list
     term: 书单列表
   - links:
-    - description: GPU Gems
-      logo: icon_developer_nvidia_com.png
-      title: GPU Gems
-      url: https://developer.nvidia.com/gpugems/gpugems/contributors
-    - description: Physically Based Rendering:From Theory To Implementation
-      logo: icon_www_pbr-book_org.png
-      title: Physically Based Rendering
-      url: https://www.pbr-book.org/
-    - description: 游戏引擎 浅入浅出
-      logo: test.png
-      title: 游戏引擎 浅入浅出
-      url: https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md
-    term: 图形学
-  - links:
-    - description: 游戏编程模式
-      logo: icon_gpp_tkchu_me.png
-      title: 游戏编程模式
-      url: https://gpp.tkchu.me/
-    - description: 本书首先介绍了Lua中的数据结构，比如通用数据是如何表示的、Lua的字符串以及表类型的实现原理，接着讨论了Lua虚拟机的实现，并且将其中重点的一些指令进行了分类讲解，最后讨论了垃圾回收、模块实现、热更新、协程等的实现原理。
-      logo: book_27108476.jpg
-      title: Lua设计与实现
-      url: https://book.douban.com/subject/27108476/
+    - description: 《C Primer Plus 中文版》共17章。第1、2章介绍了C语言编程的预备知识。第3-15章详细讲解了C语言的相关知识，包括数据类型、格式化输入/输出、运算符、表达式、语句、循环、字符输入和输出、函数、数组和指针、字符和字符串函数、内存管理、文件输入输出、结构、位操作等。第16章、17章介绍C预处理器、C库和高级数据表示。
+      logo: book_26792521.jpg
+      title: C Primer Plus（第6版）中文版
+      url: https://book.douban.com/subject/26792521/
+    - description: 时至今日，C语言仍然是计算机领域的通用语言之一，但今天的C语言已经和最初的时候大不相同了。本书主要目的就是通过一种“现代方法”来介绍C语言，书中强调标准C，强调软件工程，不再强调“手工优化”。第2版修订版中不仅有C99中的新特性，还与时俱进地增加了C11和C18中的内容。本书分为C语言的基础特性、C语言的高级特性、C语言标准库和参考资料4个部分。每章末尾的“问与答”部分给出一系列与该章内容相关的问题及答案，此外还包含适量的习题。
+      logo: book_35503091.jpg
+      title: C语言程序设计：现代方法（第2版•修订版）
+      url: https://book.douban.com/subject/35503091/
+    - description: 在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书作者是C语言的设计者之一Dennis M. Ritchie和著名计算机科学家Brian
+        W. Kernighan合著的一本介绍C语言的权威经典著作。我们现在见到的大量论述C语言程序设计的教材和专著均以此书为蓝本。
+      logo: book_1139336.jpg
+      title: C程序设计语言
+      url: https://book.douban.com/subject/1139336/
+    - description: 本书提供与C语言编程相关的全面资源和深入讨论。本书通过对指针的基础知识和高级特性的探讨，帮助程序员把指针的强大功能融入到自己的程序中去。
+      logo: book_3012360.jpg
+      title: C和指针
+      url: https://book.douban.com/subject/3012360/
+    - description: 《C专家编程》展示了最优秀的C程序员所使用的编码技巧，并专门开辟了一章对C++的基础知识进行了介绍。
+      logo: book_2377310.jpg
+      title: C专家编程
+      url: https://book.douban.com/subject/2377310/
     - description: 这本久负盛名的 C++ 经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++
         大师 Stanley B. Lippman 的丰富实践经验，C++标准委员会原负责人 Josée Lajoie 对C++标准的深入理解，以及C+ +
         先驱 Barbara E. Moo 在 C++教学方面的真知灼见外，更是基于全新的 C++11标准进行了全面而彻底的内容更新。非常难能可贵的是，本书所有示例均全部采用
@@ -800,7 +793,252 @@
       logo: book_25708312.jpg
       title: C++ Primer 中文版（第 5 版）
       url: https://book.douban.com/subject/25708312/
+    - description: 《C++程序设计语言》（原书第4版）是C++领域最经典的参考书，介绍了C++11的各项新特性和新功能。全书共分四部分。第一部分（第1~5章）是引言，包括C++的背景知识，C++语言及其标准库的简要介绍；第二部分（第6~15章）介绍C++的内置类型和基本特性，以及如何用它们构造程序；第三部分（第16~29章）介绍C++的抽象机制及如何用这些机制编写面向对象程序和泛型程序；第四部分（第30~44章）概述标准库并讨论一些兼容性问题。由于篇幅问题，原书中文版分两册出版，分别对应原书的第一至三部分和第四部分。这一册为第一至三部分。
+      logo: book_26857943.jpg
+      title: C++ 程序设计语言（第 1 - 3 部分）（原书第 4 版）
+      url: https://book.douban.com/subject/26857943/
+    - description: 在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+      logo: book_5387403.jpg
+      title: Effective C++
+      url: https://book.douban.com/subject/5387403/
+    - description: 本书是Scott Meyers大师Effective三部曲之一。继Effective C++之后，Scott Meyers于1996推出这本书。虽然出版年代稍嫌久远，但《More
+        Effective C++》并没有第2版，原因是当其出版之时（1996），C++ Standard已经几乎定案，本书即依当时的标准草案而写，其与现今的C++标准规范几乎相同。而且可能变化的几个弹性之处，Meyers也都有所说明与提示。
+      logo: book_5908727.jpg
+      title: More Effective C++
+      url: https://book.douban.com/subject/5908727/
+    - description: 作者Lippman参与设计了全世界第一套C++编译程序cfront，这本书就是一位伟大的C++编译程序设计者向你阐述他如何处理各种explicit（明确出现于C++程序代码中）和implicit（隐藏于程序代码背后）的C++语意。
+      logo: book_10427315.jpg
+      title: 深度探索C++对象模型
+      url: https://book.douban.com/subject/10427315/
+    - description: 学习编程的人都知道，阅读、剖析名家代码乃是提高水平的捷径。源码之前，了无秘密。大师们的缜密思维、经验结晶、技术思路、独到风格，都原原本本体现在源码之中。
+      logo: book_1110934.jpg
+      title: STL源码剖析
+      url: https://book.douban.com/subject/1110934/
+    - description: STL是C++标准库的一部分。本书是针对STL的经验总结，书中列出了50个条款，绝大多数条款都解释了在使用STL时应该注意的某一个方面的问题，并且详尽地分析了问题的来源、解决方案的优劣。
+      logo: book_1792179.jpg
+      title: Effective STL中文版
+      url: https://book.douban.com/subject/1792179/
+    - description: 《Lua程序设计（第4版）》由Lua 语言作者亲自撰写，针对Lua 语言本身由浅入深地从各个方面进行了完整和细致的讲解。作为第4
+        版，《Lua程序设计（第4版）》主要针对的是Lua 5.3，这是《Lua程序设计（第4版）》撰写时Lua 语言的最新版本。作者从语言使用者的角度出发，讲解了语言基础、编程实操、高级特性及C
+        语言API 等四个方面的内容，既有Lua 语言基本数据类型、输入输出、控制结构等基础知识，也有对模块、闭包、元表、协程、延续、反射、环境、垃圾回收、函数式编程、面向对象编程、C
+        语言API 等高级特性的系统讲解，还有对Lua 5.3 中引入的整型、位运算、瞬表、延续等新功能的细致说明。
+      logo: book_30262035.jpg
+      title: Lua程序设计（第4版）
+      url: https://book.douban.com/subject/30262035/
+    - description: 本书首先介绍了Lua中的数据结构，比如通用数据是如何表示的、Lua的字符串以及表类型的实现原理，接着讨论了Lua虚拟机的实现，并且将其中重点的一些指令进行了分类讲解，最后讨论了垃圾回收、模块实现、热更新、协程等的实现原理。
+      logo: book_27108476.jpg
+      title: Lua设计与实现
+      url: https://book.douban.com/subject/27108476/
+    - description: 本书是广受赞誉的《C# 图解教程》的最新版本。作者在本书中创造了一种全新的可视化叙述方式，以图文并茂的形式、朴实简洁的文字，并辅以大量表格和代码示例，全面、直观地阐述了C#
+        语言的各种特性。新版本除了精心修订旧版内容外，还全面涵盖了C# 6.0 和C# 7.0 的新增特性，比如局部函数、throw 表达式、name of
+        和空条件运算符、using static 指令、异常过滤器，等等。通过本书，读者能够快速、深入地理解C#，为自己的编程生涯打下良好的基础。
+      logo: book_34894447.jpg
+      title: C#图解教程（第5版）
+      url: https://book.douban.com/subject/34894447/
+    - description: 本书是世界顶级技术专家“十年磨一剑”的经典之作，在C#和.NET领域享有盛誉。与其他泛泛介绍C#的书籍不同，本书深度探究C#的特性，并结合技术发展，引领读者深入C#的时空。作者从语言设计的动机出发，介绍支持这些特性的核心概念。作者将新的语言特性放在C#语言发展的背景之上，用极富实际意义的示例，向读者展示编写代码和设计解决方案的最佳方式。同时作者将多年的C#开发经验与读者分享，读者可咀其精华、免走弯路，使程序设计水平更上一层楼。
+      logo: book_25843328.jpg
+      title: 深入理解C#（第3版）
+      url: https://book.douban.com/subject/25843328/
+    - description: 在本书中，世界知名的 .NET 专家 Bill Wagner 先生给出了 50 条建议，告诉你怎样充分利用 C# 6.0 所具备的特性来编写健壮而高效的代码。这些建议反映了
+        C# 开发界的新进展，也令人体会到 C# 这门语言已经越来越成熟。除了提出许多种改善代码品质的新方式，例如怎样发挥泛型的优势之外，本书还针对 LINQ
+        给出了很多条建议。
+      logo: book_30223371.jpg
+      title: Effective C#（原书第3版）
+      url: https://book.douban.com/subject/30223371/
+    - description: 《CLR via C#（第4版）》针对CLR和.NET Framework 4.5进行深入、全面的探讨，并结合实例介绍了如何利用它们进行设计、开发和调试。全书5部分共29章。第Ⅰ部分介绍CLR基础，第Ⅱ部分解释如何设计类型，第Ⅲ部分介绍基本类型，第Ⅳ部分以核心机制为主题，第Ⅴ部分重点介绍线程处理。
+      logo: book_26285940.jpg
+      title: CLR via C#
+      url: https://book.douban.com/subject/26285940/
     term: 编程开发
+  - links:
+    - description: 本书是《Data Structures and Algorithm Analysis in C》一书第2版的简体中译本。原书曾被评为20世纪顶尖的30部计算机著作之一，作者Mark
+        Allen Weiss在数据结构和算法分析方面卓有建树，他的数据结构和算法分析的著作尤其畅销，并受到广泛好评．已被世界500余所大学用作教材。
+      logo: book_1139426.jpg
+      title: 数据结构与算法分析
+      url: https://book.douban.com/subject/1139426/
+    - description: 本书作为算法领域经典的参考书，全面介绍了关于算法和数据结构的必备知识，并特别针对排序、搜索、图处理和字符串处理进行了论述。第4版具体给出了每位程序员应知应会的50个算法，提供了实际代码，而且这些
+        Java 代码实现采用了模块化的编程风格，读者可以方便地加以改造。配套网站 algs4.cs.princeton.edu 提供了本书内容摘要以及相关代码、测试数据、编程练习、教学课件等资源。
+      logo: book_19952400.jpg
+      title: 算法（第4版）
+      url: https://book.douban.com/subject/19952400/
+    - description: 在有关算法的书中，有一些叙述非常严谨，但不够全面；另一些涉及了大量的题材，但又缺乏严谨性。本书将严谨性和全面性融为一体，深入讨论各类算法，并着力使这些算法的设计和分析能为各个层次的读者接受。全书各章自成体系，可以作为独立的学习单元；算法以英语和伪代码的形式描述，具备初步程序设计经验的人就能看懂；说明和解释力求浅显易懂，不失深度和数学严谨性。
+      logo: book_20432061.jpg
+      title: 算法导论（原书第3版）
+      url: https://book.douban.com/subject/20432061/
+    - description: 《剑指Offer：名企面试官精讲典型编程题（第2版）》剖析了80个典型的编程面试题，系统整理基础知识、代码质量、解题思路、优化效率和综合能力这5个面试要点。《剑指Offer：名企面试官精讲典型编程题（第2版）》共分7章，主要包括面试的流程，讨论面试每一环节需要注意的问题；面试需要的基础知识，从编程语言、数据结构及算法三方面总结程序员面试知识点；高质量的代码，讨论影响代码质量的3个要素（规范性、完整性和鲁棒性），强调高质量代码除完成基本功能外，还能考虑特殊情况并对非法输入进行合理处理；解决面试题的思路，总结编程面试中解决难题的有效思考模式，如在面试中遇到复杂难题，应聘者可利用画图、举例和分解这3种方法将其化繁为简，先形成清晰思路，再动手编程；优化时间和空间效率，读者将学会优化时间效率及用空间换时间的常用算法，从而在面试中找到最优解；面试中的各项能力，总...
+      logo: book_27008702.jpg
+      title: 剑指Offer：名企面试官精讲典型编程题（第2版）
+      url: https://book.douban.com/subject/27008702/
+    - description: 《剑指Offer（专项突破版）：数据结构与算法名企面试题精讲》全面、系统地总结了在准备程序员面试过程中必备的数据结构与算法。本书首先详细讨论整数、数组、链表、字符串、哈希表、栈、队列、二叉树、堆和前缀树等常用的数据结构，然后深入讨论二分查找、排序、回溯法、动态规划和图搜索等算法。除了介绍相应的基础知识，每章还通过大量的高频面试题系统地总结了各种数据结构与算法的应用场景及解题技巧。
+      logo: book_35543447.jpg
+      title: 剑指Offer（专项突破版）
+      url: https://book.douban.com/subject/35543447/
+    - description: 《程序员代码面试指南：IT名企算法与数据结构题目最优解（第2版）》是一本程序员代码面试"神书”！书中对IT名企代码面试各类题目的最优解进行了总结，并提供了相关代码实现。针对当前程序员面试缺乏权威题目汇总这一痛点，本书选取将近300道真实出现过的经典代码面试题，帮助广大程序员的面试准备做到接近万无一失。"刷”完本书后，你就是"题王”！《程序员代码面试指南：IT名企算法与数据结构题目最优解（第2版）》采用题目解答的方式组织内容，并把面试题类型相近或者解法相近的题目尽量放在一起，读者在学习本书时很容易看出面试题解法之间的联系，使知识的学习避免碎片化。书中将所有的面试题从难到易依次分为"将”“校”“尉”“士”四个档次，方便读者有针对性地选择"刷”题。本书所收录的所有面试题都给出了最优解讲解和代码实现，并且提供了一些普通解法和最优解法的运行时间对比，让读者真切...
+      logo: book_30422021.jpg
+      title: 程序员代码面试指南（第2版）
+      url: https://book.douban.com/subject/30422021/
+    - description: 这本书收集了约60道算法和程序设计题目，这些题目大部分在近年的笔试、面试中出现过，或者是被微软员工热烈讨论过。作者试图从书中各种有趣的问题出发，引导读者发现问题，分析问题，解决问题，寻找更优的解法。本书的内容分为下面几个部分：
+      logo: book_3004255.jpg
+      title: 编程之美
+      url: https://book.douban.com/subject/3004255/
+    term: 数据结构与算法
+  - links:
+    - description: 第2版的《代码大全》是著名IT畅销书作者史蒂夫·迈克康奈尔11年前的经典著作的全新演绎：第2版不是第一版的简单修订增补，而是完全进行了重写；增加了很多与时俱进的内容。这也是一本完整的软件构建手册，涵盖了软件构建过程中的所有细节。它从软件质量和编程思想等方面论述了软件构建的各个问题，并详细论述了紧跟潮流的新技术、高屋建瓴的观点、通用的概念，还含有丰富而典型的程序示例。这本书中所论述的技术不仅填补了初级与高级编程技术之间的空白，而且也为程序员们提供了一个有关编程技巧的信息来源。这本书对经验丰富的程序员、技术带头人、自学的程序员及几乎不懂太多编程技巧的学生们都是大有裨益的。可以说，无论是什么背景的读者，阅读这本书都有助于在更短的时间内、更容易地写出更好的程序。
+      logo: book_1477390.jpg
+      title: 代码大全（第2版）
+      url: https://book.douban.com/subject/1477390/
+    - description: 软件质量，不但依赖于架构及项目管理，而且与代码质量紧密相关。这一点，无论是敏捷开发流派还是传统开发流派，都不得不承认。
+      logo: book_4199741.jpg
+      title: 代码整洁之道
+      url: https://book.douban.com/subject/4199741/
+    - description: 本书是经典著作《重构》出版20年后的更新版。书中清晰揭示了重构的过程，解释了重构的原理和实践方式，并给出了何时以及何地应该开始挖掘代码以求改善。书中给出了60多个可行的重构，每个重构都介绍了一种经过验证的代码变换手法的动机和技术。本书提出的重构准则将帮助开发人员一次一小步地修改代码，从而减少了开发过程中的风险。
+      logo: book_30468597.jpg
+      title: 重构（第2版）
+      url: https://book.douban.com/subject/30468597/
+    - description: 本书结合设计实例从面向对象的设计中精选出23个设计模式, 总结了面向对象设计中*有价值的经验, 并且用简洁可复用的形式表达出来。本书分类描述了一组设计良好、
+        表达清楚的软件设计模式, 这些模式在实用环境下特别有用。 本书适合大学计算机专业的学生、研究生及相关人员参考。
+      logo: book_34262305.jpg
+      title: 设计模式：可复用面向对象软件的基础
+      url: https://book.douban.com/subject/34262305/
+    - description: 本书通篇都是以情景对话的形式，用多个小故事或编程示例来组织讲解GOF(设计模式的经典名著——Design Patterns:Elements
+        of Reusable Object-Oriented Software，中译本名为《设计模式——可复用面向对象软件的基础》的四位作者EIich Gamma、Richard
+        Helm、Ralph Johnson，以及John Vlissides，这四人常被称为Gang of Four，即四人组，简称GoF)总结的23个设计模式。本书共分为29章。其中，第1、3、4、5章着重讲解了面向对象的意义、好处以及几个重要的设计原则；第2章，以及第6到第28章详细讲解了23个设计模式；第29章是对设计模式的全面总结，附录部分是通过一个例子的演变为初学者介绍了面向对象的基本概念。本书的特色是通过小菜与大鸟的趣味问答，在讲解程...
+      logo: book_2334288.jpg
+      title: 大话设计模式
+      url: https://book.douban.com/subject/2334288/
+    - description: 游戏编程模式
+      logo: icon_gpp_tkchu_me.png
+      title: 游戏编程模式
+      url: https://gpp.tkchu.me/
+    term: 重构和设计模式
+  - links:
+    - description: 本书自1989年首次出版以来，曾多次修订版。在2006年本书通过了教育部的评审，被纳入普通高等教育"十一五”规划教材；2008年出版的第5版获得了教育部2009年精品教材称号。2013年的第6版是"十二五”普通高等教育本科规划教材。2017年推出了第7版，现在的第8版又在原有的基础上进行了较大的修订。全书分为9章，比较全面系统地介绍了计算机网络的发展和原理体系结构、物理层、数据链路层（包括局域网）、网络层、运输层、应用层、网络安全、互联网上的音频/视频服务，以及无线网络和移动网络等内容。各章均附有习题（附录A给出了部分习题的答案和提示）。全书课件及计算机网络基本概念的演示，放在电子工业出版社悦学多媒体课程资源平台上(http://yx.51zhy.cn/mtrcsRes/phei_cnetwork.jsp)，供读者下载参考。本书的特点是概念准确、论述...
+      logo: book_35498120.jpg
+      title: 计算机网络 (第8版)
+      url: https://book.douban.com/subject/35498120/
+    - description: 本书自首次出版以来，持续为计算机网络教学提供新颖的和与时俱进的方法，目前已被译为14种语言，世界上数百所大学采用本书作为教材，几十万学生和从业人员通过本书系统学习计算机网络知识。
+      logo: book_36081529.jpg
+      title: 计算机网络：自顶向下方法（原书第8版）
+      url: https://book.douban.com/subject/36081529/
+    - description: 这是一本图文并茂的网络管理技术书籍，旨在让广大读者理解TCP/IP的基本知识、掌握TCP/IP的基本技能。
+      logo: book_24737674.jpg
+      title: 图解TCP/IP (第5版)
+      url: https://book.douban.com/subject/24737674/
+    - description: 本书对互联网基盘——HTTP协议进行了全面系统的介绍。作者由HTTP协议的发展历史娓娓道来，严谨细致地剖析了HTTP协议的结构，列举诸多常见通信场景及实战案例，最后延伸到Web安全、最新技术动向等方面。本书的特色为在讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。读者可通过本书快速了解并掌握HTTP协议的基础，前端工程师分析抓包数据，后端工程师实现REST
+        API、实现自己的HTTP服务器等过程中所需的HTTP相关知识点本书均有介绍。
+      logo: book_25863515.jpg
+      title: 图解HTTP
+      url: https://book.douban.com/subject/25863515/
+    - description: 《TCP/IP详解卷1：协议》是一本完整而详细的TCP/IP协议指南。描述了属于每一层的各个协议以及它们如何在不同操作系统中运行。作者W.Richard
+        Stevens用Lawrence Berkeley实验室的tcpdump程序来捕获不同操作系统和TCP/IP实现之间传输的不同分组。对tcpdump输出的研究可以帮助理解不同协议如何工作。    《TCP/IP详解卷1：协议》适合作为计算机专业学生学习网络的教材和教师参考书。也适用于研究网络的技术人员。
+      logo: book_1088054.jpg
+      title: TCP/IP详解 卷1：协议
+      url: https://book.douban.com/subject/1088054/
+    - description: 《TCP/IP详解·卷2：实现》完整而详细地介绍了TCP/IP协议是如何实现的。书中给出了约500个图例，15000行实际操作的C代码，采用举例教学的方法帮助你掌握TCP/IP实现。《TCP/IP详解·卷2：实现》不仅说明了插口API和协议族的关系以及主机实现与路由器实现的差别。还介绍了4.4BSD-Lite版的新的特点。《TCP/IP详解·卷2：实现》适用于希望理解TCP/IP协议如何实现的人，包括编写网络应用程序的程序员以及利用TCP/IP维护计算机网络的系统管理员。
+      logo: book_1087767.jpg
+      title: TCP/IP详解 卷2：实现
+      url: https://book.douban.com/subject/1087767/
+    - description: 本书不仅全面地讲述了操作系统的基本概念、原理和方法，还清楚地展现了当代操作系统的本质和特点。作者针对近几年操作系统领域的最新变化，对操作系统的设计原理进行深入的阐述，同时将其对操作系统整个领域全面而深入的理解呈现给读者。
+      logo: book_5064311.jpg
+      title: 操作系统
+      url: https://book.douban.com/subject/5064311/
+    - description: Andrew S. Tanenbaum教授编写的教材《现代操作系统》现在已经是第4版了。第4版在保持原有特色的基础上，又增添了许多新的内容，反映了当代操作系统的发展与动向，并不断地与时俱进。
+      logo: book_27096665.jpg
+      title: 现代操作系统（原书第4版）
+      url: https://book.douban.com/subject/27096665/
+    - description: 这是一本关于现代操作系统的书。全书围绕虚拟化、并发和持久性这3个主要概念展开，介绍了所有现代系统的主要组件（包括调度、虚拟内存管理、磁盘和I/O子系统、文件系统）。
+      logo: book_33463930.jpg
+      title: 操作系统导论
+      url: https://book.douban.com/subject/33463930/
+    - description: 和第2版相比，本版内容上*大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。主要更新如下：
+      logo: book_26912767.jpg
+      title: 深入理解计算机系统（原书第3版）
+      url: https://book.douban.com/subject/26912767/
+    - description: 《计算机程序的构造和解释》成型于美国麻省理工学院（MIT）多年使用的一本教材，1984年出版，1996年修订为第二版。在过去的二十多年里，该书对于计算机科学的教育计划产生了深刻的影响。
+      logo: book_1148282.jpg
+      title: 计算机程序的构造和解释(原书第2版)
+      url: https://book.douban.com/subject/1148282/
+    term: 网络和操作系统
+  - links:
+    - description: 《游戏引擎架构（第2版）》涵盖游戏引擎软件开发的理论及实践知识，并在第1版的基础上对多个主题进行了更新。本书中讨论的概念及技巧被实际应用于现实中的游戏工作室（如艺电及顽皮狗）。虽然书中采用的例子通常依托于一些专门的技术，但是讨论范围远超某个引擎或API。另外，书中提供的参考文献及引用也非常有价值，可让读者继续深入游戏开发的任何特定方向。
+      logo: book_34864920.jpg
+      title: 游戏引擎架构（第2版）
+      url: https://book.douban.com/subject/34864920/
+    - description: 游戏引擎 浅入浅出
+      logo: icon_105.png
+      title: 游戏引擎 浅入浅出
+      url: https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=Introduction.md
+    - description: 《Unity 3D脚本编程——使用C#语言开发跨平台游戏》以Unity 3D 的跨平台基础Mono，以及其游戏脚本语言C#为基础进行讲解。全面系统地剖析了Unity
+        3D 的跨平台原理以及游戏脚本开发的特点。
+      logo: book_26881959.jpg
+      title: Unity 3D脚本编程
+      url: https://book.douban.com/subject/26881959/
+    - description: 深入讲解Unity3D网络游戏开发的原理和实现细节，全面剖析游戏网络框架设计。 ·实战性强，以多人坦克对战游戏案例贯穿全书，详述网络游戏的开发过程，帮助读者掌握商业游戏的设计思路和实现方法。
+      logo: book_26914638.jpg
+      title: Unity3D网络游戏实战
+      url: https://book.douban.com/subject/26914638/
+    term: 游戏引擎
+  - links:
+    - description: 本书主要研究隐藏在3D几何世界背后的数学问题。3D数学是一门与计算几何相关的学科，计算几何则是研究怎样用数值方法解决几何问题的学科。3D数学和计算几何广泛应用在那些使用计算机来模拟3D世界的领域，如图形学、游戏、仿真、机器人技术、虚拟现实和动画等。
+      logo: book_1400419.jpg
+      title: 3D数学基础
+      url: https://book.douban.com/subject/1400419/
+    - description: 《OpenGL编程指南(原书第9版)》共12章，第1章概述OpenGL主要特性和功能；第2章讨论OpenGL中最主要的特性一一可编程着色器和SPIR—V；第3章介绍使用OpenGL进行几何体绘制的各种方法，以及一些可以让渲染更为高效的优化手段；第4章阐释OpenGL对于颜色的处理过程；第5章介绍在一个二维计算机屏幕上表现三维场景的操作细节；第6章讨论将几何模型与图像结合来创建真实的、高质量的三维模型的方法；第7章介绍计算机图形的光照效果模拟方法；第8章介绍使用可编程着色器生成纹理和其他表面效果的方法细节；第9章解释OpenGL管理和细分几何表面的着色器功能；第10章介绍在OpenGL渲染流水线中使用着色器进行几何体图元修改的特别技术；第11章介绍使用OpenGL帧缓存和缓存内存实现高级渲染技术和非图形学应用的相关方法；第12章介绍了最新的着色器阶段，...
+      logo: book_27123094.jpg
+      title: OpenGL编程指南(原书第9版)
+      url: https://book.douban.com/subject/27123094/
+    - description: Direct3D是微软公司DirectX SDK集成开发包中的重要组成部分，是编写高性能3D图形应用程序的渲染库，适用于多媒体、娱乐、即时3D动画等广泛和实用的3D图形计算领域。
+      logo: book_30426701.jpg
+      title: DirectX 12 3D 游戏开发实战
+      url: https://book.douban.com/subject/30426701/
+    - description: 《3D 游戏编程大师技巧》是游戏编程畅销书作者André LaMothe的扛鼎之作，从游戏编程和软件引擎的角度深入探讨了3D图形学的各个重要主题。全书共分5部分，包括16章的内容。第1～3章简要地介绍了Windows和DirectX编程，创建了一个Windows应用程序模板，让读者能够将精力放在游戏逻辑和图形实现中，而不用考虑Windows和DirectX方面的琐事；第4～5章简要地介绍了一些数学知识并实现了一个数学库，供以后编写演示程序时使用；第6章概述了3D图形学，让读者对《3D
+        游戏编程大师技巧(附光盘)》将介绍的内容有大致的了解；第7～11章分别介绍了光照、明暗处理、仿射纹理映射、3D裁剪和深度缓存等内容；第12～14章讨论了高级3D渲染技术，包括透视修正纹理映射、Alpha混合、1/z缓存、纹理滤波、空间划分和可见性算法、阴影、光照映射等；...
+      logo: book_1321769.jpg
+      title: 3D游戏编程大师技巧
+      url: https://book.douban.com/subject/1321769/
+    - description: Cg是最早的为可编程图形硬件设计的高级编程语言，《Cg 教程:可编程实时图形权威指南》教你如何编写Cg程序。 《Cg 教程:可编程实时图形权威指南》共10章，第1章简要介绍Cg语言。随后的每一章分别介绍Cg中的一个概念和技术的说明，包括最简单的Cg程序，参数、纹理和表达式，如何进行顶点变换，如何用Cg实现光照模型，如何用Cg顶点程序实现模型的动画和变换，如何实现环境贴图，如何实现凹凸贴图，雾、卡通光照、投影聚光、阴影贴图和复合技术，目前可用的Cg的顶点和片断的简要描述（Profile）等内容。每章的结尾提供了习题，以帮助你进一步学习，探索更多的Cg知识。《Cg
+        教程:可编程实时图形权威指南》另外还附有5个关于Cg基础知识的附录。
+      logo: book_1231160.jpg
+      title: CG教程-可编程实时图形权威指南
+      url: https://book.douban.com/subject/1231160/
+    - description: GPU Gems
+      logo: icon_developer_nvidia_com.png
+      title: GPU Gems
+      url: https://developer.nvidia.com/gpugems/gpugems/contributors
+    - description: 《GPU精粹:实时图形编程的技术技巧和技艺》汇集了当今国际上前沿开发者们经多年研究和实践得出的实用的实时图形技术成果。《GPU精粹:实时图形编程的技术技巧和技艺》主要基于当今图形处理器(GPU)的可编程图形管线，除了讲述用于创建高级视觉效果的基础知识和性能优化技术外，还着重介绍了前沿开发者们总结出来的快速技巧。《GPU精粹:实时图形编程的技术技巧和技艺》全体撰稿者和编辑人员将他们多年的经验通过这《GPU精粹:实时图形编程的技术技巧和技艺》贡献给读者，期待能够启发并帮助大家进入神奇的可编程实时图形世界。
+      logo: book_1480239.jpg
+      title: GPU精粹
+      url: https://book.douban.com/subject/1480239/
+    - description: '费尔南多(Randima Femando)从8岁起就爱上了计算机图形学。现在在NVIDIA的技术开发组工作，同时教授开发者如何利用最新的图形处理技术(GPU)。费尔南多在康奈尔大学获得了计算机科学学士学位和计算机图形学硕士学位。他已经在SigGraph上发表过文章，与Mark
+        Kilgard合著The CG Tutorial: The Definitive Guide to Programmable Real-Time Graphics。.'
+      logo: book_2144796.jpg
+      title: GPU精粹2
+      url: https://book.douban.com/subject/2144796/
+    - description: Thoroughly updated, this fourth edition focuses on modern techniques
+        used to generate synthetic three-dimensional images in a fraction of a second.
+        With the advent of programmable shaders, a wide variety of new algorithms
+        have arisen and evolved over the past few years. This edition discusses current,
+        practical rendering methods used in games and other applications. It also
+        pre...
+      logo: book_30296179.jpg
+      title: Real-Time Rendering, Fourth Edition
+      url: https://book.douban.com/subject/30296179/
+    - description: Physically Based Rendering:From Theory To Implementation
+      logo: icon_www_pbr-book_org.png
+      title: Physically Based Rendering
+      url: https://www.pbr-book.org/
+    - description: 本书不仅要教会读者如何使用Unity Shader，更重要的是要帮助读者学习Unity中的一些渲染机制以及如何使用Unity
+        Shader实现各种自定义的渲染效果，希望这本书可以为读者打开一扇新的大门，让读者离制作心目中杰出游戏的心愿更近一步。
+      logo: book_26821639.jpg
+      title: Unity Shader入门精要
+      url: https://book.douban.com/subject/26821639/
+    term: 图形学
+  - links:
+    - description: 这是一本非常有特色的计算机编程学习书籍。其特色就在于它将作者十余年来对游戏编程的所思、所感、所悟与编程理论知识相结合，褪去了纯理论的教学理念，使读者在前人的学习过程中吸取学习经验和教训，将计算机基础知识和高级编程技术不知不觉地融入自己的头脑中。
+      logo: book_1441780.jpg
+      title: 游戏之旅
+      url: https://book.douban.com/subject/1441780/
+    term: 计算机
   taxonomy: 书单分享
 - icon: fab fa-artstation
   links: []
@@ -841,24 +1079,25 @@
       url: https://github.com/MorcilloSanz/RendererGL
     term: 在线资源
   - links:
-    - description: 课程内容会覆盖学术界与工业界的前沿内容，包括：（1）实时软阴影的渲染；（2）环境光照；（3）基于预计算或无预计算的全局光照；（4）基于物理的着色模型与方法；（5）实时光线追踪；（6）抗锯齿与超采样；以及一些常见的加速方式等等。
-      logo: icon_sites_cs_ucsb_edu.png
-      title: 'GAMES202: 高质量实时渲染'
-      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+        课程QQ群：705885217
+      logo: icon_games-cn_org.png
+      title: GAMES101-现代计算机图形学入门
+      url: https://www.bilibili.com/video/BV1X7411F744/
     - description: GAMES 202课程：《高质量实时渲染》 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
-      logo: icon_www_bilibili_com.png
+      logo: icon_games-cn_org.png
       title: GAMES202-高质量实时渲染
       url: https://www.bilibili.com/video/BV1YK4y1T7yY/?vd_source=b95bd2235929e53603a5fae8070e338e
     - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
         课程QQ群：705885217
-      logo: icon_www_bilibili_com.png
+      logo: icon_games-cn_org.png
       title: GAMES101-现代计算机图形学入门
       url: https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=b95bd2235929e53603a5fae8070e338e
     - description: 本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。
       logo: icon_games-cn_org.png
       title: GAMES101:现代计算机图形学入门
       url: https://games-cn.org/intro-graphics/
-    term: Game专题
+    term: GAMES专题
   - links:
     - description: 技术美术
       logo: icon_blog_l0v0_com.png
@@ -869,7 +1108,7 @@
       title: xiaOp的博客
       url: https://xiaoiver.github.io/
     - description: 游戏开发:Unity 生成式艺术
-      logo: unity.png
+      logo: icon_101.png
       title: giuyyt
       url: https://giuyyt.github.io/
     - description: Unity Shader入门精要作者
@@ -877,7 +1116,7 @@
       title: 冯乐乐-candycat1992
       url: https://candycat1992.github.io/
     - description: Vulkan API
-      logo: test.png
+      logo: icon_102.png
       title: Sascha Willems
       url: https://www.saschawillems.de/
     - description: 愿天下心诚剑士人人可剑开天门！
