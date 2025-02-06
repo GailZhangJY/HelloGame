@@ -24,6 +24,24 @@
     logo: icon_indienova_com.png
     title: INDIENOVA
     url: https://indienova.com/
+  - description: A lightweight online game framework
+    logo: icon_github_com.png
+    title: skynet
+    url: https://github.com/cloudwu/skynet
+  - description: 🎮 🎲 A wonderful list of Game Development resources.
+    logo: icon_github_com.png
+    title: GameDev-Resources
+    url: https://github.com/Kavex/GameDev-Resources
+  - description: A collection of free software and free culture resources for making
+      amazing games. (mirror)
+    logo: icon_github_com.png
+    title: awesome-gamedev
+    url: https://github.com/Calinou/awesome-gamedev
+  - description: ⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep
+      Reading , Keep Writing , Keep Coding.
+    logo: icon_github_com.png
+    title: Game-Programmer-Study-Notes
+    url: https://github.com/QianMo/Game-Programmer-Study-Notes
   taxonomy: 行业资讯
 - icon: fas fa-user
   links: []
@@ -664,16 +682,33 @@
       logo: bilibili_48623242.png
       title: 精彩体验
       url: https://space.bilibili.com/48623242
+    - description: 游戏开发 Shader 帧同步教程
+      logo: bilibili_308864667.png
+      title: 渔夫小朋友
+      url: https://space.bilibili.com/308864667
     term: 视频博主
   - links:
     - description: Unity官方
       logo: icon_github_com.png
       title: Unity Technologies
       url: https://github.com/Unity-Technologies
+    - description: The fastest unity lua binding solution
+      logo: icon_github_com.png
+      title: tolua
+      url: https://github.com/topameng/tolua
     - description: xLua为Unity、 .Net、 Mono等C#环境增加Lua脚本编程的能力，借助xLua，这些Lua代码可以方便的和C#相互调用。
       logo: icon_github_com.png
       title: XLua
       url: https://tencent.github.io/xLua/public/v1/guide/index.html
+    - description: 基于Unity引擎的游戏框架
+      logo: icon_gameframework_cn.png
+      title: Game Framework
+      url: https://gameframework.cn/
+    - description: xasset 是专业 Unity 构建工具。xasset 提供更先进的 Unity 资产打包、加载、分包、加密和边玩边下等技术方案，帮助你更快更好的进行更高品质的
+        Unity 产品创作。
+      logo: icon_github_com.png
+      title: xasset
+      url: https://github.com/xasset/xasset
     - description: 马三小伙Unity大杂烩
       logo: icon_github_com.png
       title: Unity杂货铺
@@ -682,18 +717,193 @@
       logo: icon_github_com.png
       title: anything_about_game
       url: https://github.com/killop/anything_about_game
-    - description: 基于Unity引擎的游戏框架
-      logo: icon_gameframework_cn.png
-      title: Game Framework
-      url: https://gameframework.cn/
     - description: a comprehensive collection of video game tech analysis resources
       logo: icon_github_com.png
       title: Awesome-Game-Analysis
       url: https://github.com/OTFCG/Awesome-Game-Analysis
-    - description: The fastest unity lua binding solution
+    - description: Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
       logo: icon_github_com.png
-      title: tolua
-      url: https://github.com/topameng/tolua
+      title: GameFramework
+      url: https://github.com/EllanJiang/UnityGameFramework
+    - description: HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。
+      logo: icon_github_com.png
+      title: HybridCLR
+      url: https://github.com/focus-creative-games/hybridclr
+    - description: Provides an efficient allocation free async/await integration for
+        Unity.
+      logo: icon_github_com.png
+      title: UniTask
+      url: https://github.com/Cysharp/UniTask
+    - description: Zero Allocation StringBuilder for .NET and Unity.
+      logo: icon_github_com.png
+      title: ZString
+      url: https://github.com/Cysharp/ZString
+    - description: 一款用于图像和视频的卡通着色器，旨在满足从事卡通着色3DCG 动画的创作者的需求。
+      logo: icon_github_com.png
+      title: UnityChanToonShaderVer2_Project
+      url: https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
+    - description: Ant 是由灵犀互娱开发的开源游戏引擎
+      logo: icon_github_com.png
+      title: Ant 游戏引擎
+      url: https://github.com/ejoy/ant
+    - description: QFramework 是提供一套简单、强大、易上手、符合 SOLID 原则、支持领域驱动设计（DDD）、事件驱动、数据驱动、分层、MVC
+        、CQRS、模块化、易扩展的架构
+      logo: icon_github_com.png
+      title: QFramework
+      url: https://github.com/liangxiegame/QFramework
+    - description: 开箱即用的 Unity 开发框架
+      logo: icon_qframework_cn.png
+      title: QFramework官网
+      url: https://qframework.cn/qf
+    - description: PuerTS是 Unity/Unreal/Dotnet 下的TypeScript编程解决方案
+      logo: icon_github_com.png
+      title: PuerTS
+      url: https://github.com/Tencent/puerts
+    - description: Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours
+        to Unity DOTS.
+      logo: icon_github_com.png
+      title: DOTS-training-samples
+      url: https://github.com/Unity-Technologies/DOTS-training-samples
+    - description: C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等,
+        Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)
+      logo: icon_github_com.png
+      title: sylar
+      url: https://github.com/sylar-yin/sylar
+    - description: F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的游戏框架，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。
+      logo: icon_github_com.png
+      title: F8Framework
+      url: https://github.com/TippingGame/F8Framework
+    - description: 一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格.
+      logo: icon_github_com.png
+      title: EGamePlay
+      url: https://github.com/m969/EGamePlay
+    - description: 为高性能而生的游戏运行时与工具箱
+      logo: icon_github_com.png
+      title: SakuraEngine
+      url: https://github.com/SakuraEngine/SakuraEngine
+    - description: Patch all versions of Unity3D and UnityHub for Windows, MacOS,
+        Linux and Docker.
+      logo: icon_github_com.png
+      title: UniHacker
+      url: https://github.com/tylearymf/UniHacker
+    - description: 游戏服务器框架，网络层分别用SocketAPI、Boost Asio、Libuv三种方式实现， 框架内使用共享内存，无锁队列，对象池，内存池来提高服务器性能。还包含一个不断完善的Unity
+        3D客户端，客户端含大量完整资源，坐骑，宠物，伙伴，装备, 这些均己实现上阵和穿戴, 并可进入副本战斗，多人玩法也己实现, 持续开发中。
+      logo: icon_github_com.png
+      title: GameProject3
+      url: https://github.com/ylmbtm/GameProject3
+    - description: 单、高效、高度工业化的商业级unity3d 工作流。
+      logo: icon_github_com.png
+      title: BDFramework.Core
+      url: https://github.com/yimengfan/BDFramework.Core
+    - description: 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
+      logo: icon_github_com.png
+      title: GameDevMind
+      url: https://github.com/gonglei007/GameDevMind
+    - description: BepInEx is a plugin / modding framework for Unity Mono, IL2CPP
+        and .NET framework games (XNA, FNA, MonoGame, etc.)
+      logo: icon_github_com.png
+      title: BepInEx
+      url: https://github.com/BepInEx/BepInEx
+    - description: Unity WebGL 小游戏适配方案(又称Unity/团结引擎快适配)，本方案设计目的是降低 Unity 游戏转换到微信小游戏的开发成本。基于WebAssembly技术，无需更换Unity引擎与重写核心代码的情况下将原有游戏项目适配到微信小游戏。
+      logo: icon_github_com.png
+      title: minigame-unity-webgl-transform
+      url: https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+    - description: A curated list of awesome Unity assets, resources, and more.
+      logo: icon_github_com.png
+      title: awesome-unity
+      url: https://github.com/RyanNielson/awesome-unity
+    - description: About 提供一些UnityEditor工具链开发的常用小技巧与示例
+      logo: icon_github_com.png
+      title: UnityToolchainsTrick
+      url: https://github.com/XINCGer/UnityToolchainsTrick
+    - description: Unity il2cpp reverse engineer
+      logo: icon_github_com.png
+      title: Il2CppDumper
+      url: https://github.com/Perfare/Il2CppDumper
+    - description: AssetStudio is a tool for exploring, extracting and exporting assets
+        and assetbundles.
+      logo: icon_github_com.png
+      title: AssetStudio
+      url: https://github.com/Perfare/AssetStudio
+    - description: Unity游戏开发资源
+      logo: icon_github_com.png
+      title: GameDev
+      url: https://github.com/crazyshader/GameDev
+    - description: 对外的技术分享合集，主要是游戏服务器架构、实战，优化等，以及游戏客户端初学分享
+      logo: icon_github_com.png
+      title: Bulls
+      url: https://github.com/landon30/Bulls
+    - description: 笔记，看一本书的心得，对技术点的深入总结，工作流水账。
+      logo: icon_github_com.png
+      title: note
+      url: https://github.com/zhygmsz/note
+    - description: Pure C# IL Intepreter Runtime, which is fast and reliable for scripting
+        requirement on enviorments, where jitting isn't possible.
+      logo: icon_github_com.png
+      title: ILRuntime
+      url: https://github.com/Ourpalm/ILRuntime
+    - description: ILRuntime项目为基于C#的平台（例如Unity）提供了一个纯C#实现，快速、方便且可靠的IL运行时，使得能够在不支持JIT的硬件环境（如iOS）能够实现代码的热更新
+      logo: icon_106.png
+      title: ILRuntime
+      url: https://ourpalm.github.io/ILRuntime/public/v1/guide/index.html
+    - description: 'TinaX Framework : Unity based Game Client Framework | 基于 Unity
+        的游戏客户端开发框架'
+      logo: icon_github_com.png
+      title: TinaX
+      url: https://github.com/yomunsam/TinaX
+    - description: 游戏、Unity技术项目引用目录
+      logo: icon_github_com.png
+      title: GameAndUnity-TechLib
+      url: https://github.com/m969/GameAndUnity-TechLib
+    - description: A Unity C# animation engine. HOTween v2
+      logo: icon_github_com.png
+      title: dotween
+      url: https://github.com/Demigiant/dotween
+    - description: 帧同步 教程
+      logo: icon_github_com.png
+      title: Lockstep-Tutorial
+      url: https://github.com/JiepengTan/Lockstep-Tutorial
+    - description: an unity mmo demo, base on ecs(game play), xlua(ui)
+      logo: icon_github_com.png
+      title: UnityMMO
+      url: https://github.com/liuhaopen/UnityMMO
+    - description: CSharp代码转lua，适用于使用lua实现热更新而又想有一个强类型检查的语言的场合
+      logo: icon_github_com.png
+      title: Cs2Lua
+      url: https://github.com/dreamanlan/Cs2Lua
+    - description: HTFramework是基于Unity的一个快速开发框架，集需求模块化、代码重用性、实用便捷性、功能高内聚、统一编码规范、可扩展性、可维护性、可通用性、可插拨性为一体，并提供持续维护、升级。
+      logo: icon_github_com.png
+      title: HTFramework
+      url: https://github.com/SaiTingHu/HTFramework
+    - description: Unity数据可视化图表插件。
+      logo: icon_github_com.png
+      title: XCharts
+      url: https://github.com/XCharts-Team/XCharts
+    - description: A Shader Editor for Unity
+      logo: icon_github_com.png
+      title: ShaderForge
+      url: https://github.com/FreyaHolmer/ShaderForge
+    - description: luban是一个强大、易用、优雅、稳定的游戏配置解决方案。
+      logo: icon_github_com.png
+      title: luban
+      url: https://github.com/focus-creative-games/luban
+    - description: 基于tolua的热更新框架V2
+      logo: icon_github_com.png
+      title: LuaFramework_UGUI_V2
+      url: https://github.com/jarjin/LuaFramework_UGUI_V2
+    - description: 用Unity做的一个类Moba游戏Demo
+      logo: icon_github_com.png
+      title: MoBaDemo
+      url: https://github.com/swordjoinmagic/MoBaDemo
+    - description: A maintained collection of useful & free unity scripts / library's
+        / plugins and extensions
+      logo: icon_github_com.png
+      title: Unity-Script-Collection
+      url: https://github.com/michidk/Unity-Script-Collection
+    - description: 我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统
+      logo: icon_github_com.png
+      title: MyUnityFrameWork
+      url: https://github.com/kisence-mian/MyUnityFrameWork
     term: 开源项目
   - links:
     - description: 用程序改变世界，用音乐改变生活
@@ -732,6 +942,19 @@
       logo: icon_github_com.png
       title: MudChina
       url: https://github.com/mudchina
+    - description: 这是一个使用C#/Unity重新实现的仙剑奇侠传三以及仙剑奇侠传三外传的开源项目（注意：不是移植，是重写）。
+      logo: icon_github_com.png
+      title: Pal3.Unity
+      url: https://github.com/0x7c13/Pal3.Unity
+    - description: A game made by the Celeste developers in a week(ish, closer to
+        2)
+      logo: icon_github_com.png
+      title: Celeste64
+      url: https://github.com/ExOK/Celeste64
+    - description: 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo
+      logo: icon_github_com.png
+      title: TowerDefense-GameFramework-Demo
+      url: https://github.com/DrFlower/TowerDefense-GameFramework-Demo
     term: 开源游戏
   - links:
     - description: GameAIPro 简明中文索引
@@ -1023,6 +1246,10 @@
       logo: book_30296179.jpg
       title: Real-Time Rendering, Fourth Edition
       url: https://book.douban.com/subject/30296179/
+    - description: 《Real-Time Rendering 4th》 (RTR4) 中文翻译
+      logo: icon_www_wolai_com.png
+      title: Real-Time-Rendering-4th-CN
+      url: https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W
     - description: Physically Based Rendering:From Theory To Implementation
       logo: icon_www_pbr-book_org.png
       title: Physically Based Rendering
@@ -1077,26 +1304,41 @@
       logo: test.png
       title: RendererGL
       url: https://github.com/MorcilloSanz/RendererGL
+    - description: 这是一本关于 Fragment Shaders（片段着色器）的入门指南，它将一步一步地带你领略其中的纷繁与抽象。
+      logo: icon_107.png
+      title: The Book of Shaders
+      url: https://thebookofshaders.com/?lan=ch
     term: 在线资源
   - links:
-    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-        课程QQ群：705885217
+    - description: 活跃我国计算机图形学和虚拟现实的研究 促进学者之间的思想交流和学术合作 报告和研讨相关方向的研究热点和发展趋势 图形学研究工作者与相关产业工作者之间的桥梁
       logo: icon_games-cn_org.png
-      title: GAMES101-现代计算机图形学入门
-      url: https://www.bilibili.com/video/BV1X7411F744/
-    - description: GAMES 202课程：《高质量实时渲染》 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
-      logo: icon_games-cn_org.png
-      title: GAMES202-高质量实时渲染
-      url: https://www.bilibili.com/video/BV1YK4y1T7yY/?vd_source=b95bd2235929e53603a5fae8070e338e
-    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-        课程QQ群：705885217
-      logo: icon_games-cn_org.png
-      title: GAMES101-现代计算机图形学入门
-      url: https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=b95bd2235929e53603a5fae8070e338e
+      title: 计算机图形学与混合现实在线平台
+      url: https://games-cn.org/
     - description: 本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。
       logo: icon_games-cn_org.png
       title: GAMES101:现代计算机图形学入门
-      url: https://games-cn.org/intro-graphics/
+      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+        课程QQ群：705885217
+      logo: icon_space_bilibili_com.png
+      title: GAMES101-现代计算机图形学入门
+      url: https://www.bilibili.com/video/BV1X7411F744/
+    - description: 本课程将以专题的形式呈现，课程内容会覆盖学术界与工业界的前沿内容，包括：（1）实时软阴影的渲染；（2）环境光照；（3）基于预计算或无预计算的全局光照；（4）基于物理的着色模型与方法；（5）实时光线追踪；（6）抗锯齿与超采样；以及一些常见的加速方式等等。
+      logo: icon_games-cn_org.png
+      title: 'GAMES202: 高质量实时渲染'
+      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+    - description: GAMES 202课程：《高质量实时渲染》 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+      logo: icon_space_bilibili_com.png
+      title: GAMES202-高质量实时渲染
+      url: https://www.bilibili.com/video/BV1YK4y1T7yY/
+    - description: GAMES104课程将介绍现代游戏引擎所涉及的系统架构、 技术点和引擎系统相关的知识。GAMES104课程分成三个部分：现代引擎架构综述、各核心系统原理和开发、前沿领域简介。
+      logo: icon_games104_boomingtech_com.png
+      title: GAMES104-现代游戏引擎：从入门到实践
+      url: https://games104.boomingtech.com/
+    - description: 本课程将介绍现代游戏引擎所涉及的系统架构，技术点，引擎系统相关的知识。通过该课程，你能够对游戏引擎建立起一个全面且完整的了解。如果你动手能力足够强，你将能够跟随课程，从0到1搭建起一个完整的迷你游戏引擎。本课程适合相关专业领域的学生、研究者，以及所有对游戏引擎设计和开发感兴趣的人。  课程会分成以下三个部分：一、现代引擎架构综述。二、各核心系统原理和开发。三、前沿领域简介。在每个部分中，将通过讲解、问答、课后作业的形式，带领你学习一个现代游戏引擎背后牵涉到的计算机体系结构，软件架构，各个系统特定的知识，了解大型软件系统设计和实施背后的复杂性，以及提高自身的编程能力。  练习与实践：在本课程中，我们会准备一段开源的引擎框架，选取部分易上手的知识点，让你能够跟随课程节奏，亲手构建一个迷你引擎，体验系统架构的乐趣。  注意：本课程的核心是让同学们构建一个开发平台，不会去侧重于讲特定引擎的使用方法，也不会深入到具体效果实现；比如：用shader实现水面效果等。
+      logo: icon_space_bilibili_com.png
+      title: GAMES104-现代游戏引擎：从入门到实践
+      url: https://www.bilibili.com/video/BV1oU4y1R7Km/
     term: GAMES专题
   - links:
     - description: 技术美术
@@ -1135,6 +1377,94 @@
       logo: icon_github_com.png
       title: YwSoftRenderer
       url: https://github.com/yaukeywang/YwSoftRenderer
+    - description: Learn opengl together
+      logo: icon_github_com.png
+      title: start-learning-opengl
+      url: https://github.com/yocover/start-learning-opengl
+    - description: 本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（截止到2023.10.30）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
+      logo: icon_github_com.png
+      title: 《Real-Time Rendering 4th》 (RTR4) 中文翻译
+      url: https://github.com/Morakito/Real-Time-Rendering-4th-CN
+    - description: 'Dear ImGui: Bloat-free Graphical User interface for C++ with minimal
+        dependencies'
+      logo: icon_github_com.png
+      title: imgui
+      url: https://github.com/ocornut/imgui
+    - description: 这是一个基于URP的开源仿原神卡通渲染项目
+      logo: icon_github_com.png
+      title: GenshinCelShaderURP
+      url: https://github.com/Gaolingx/GenshinCelShaderURP
+    - description: Toon Shading Collection (for Character) 角色卡通渲染效果分析收集/速查手册/小百科
+      logo: icon_github_com.png
+      title: ToonShadingCollection
+      url: https://github.com/TechMiZ/ToonShadingCollection
+    - description: 记录学习Unity Shader过程中实现过的一些Demo。
+      logo: icon_github_com.png
+      title: LearnUnityShader
+      url: https://github.com/csdjk/LearnUnityShader
+    - description: Unity URP Shader 代码示例
+      logo: icon_github_com.png
+      title: URPShaderCodeSample
+      url: https://github.com/AnCG7/URPShaderCodeSample
+    - description: 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting,
+        normal mapping, and more for your 3D game.
+      logo: icon_github_com.png
+      title: 3d-game-shaders-for-beginners
+      url: https://github.com/lettier/3d-game-shaders-for-beginners
+    - description: 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
+      logo: icon_github_com.png
+      title: 50YearsOfRayTracing
+      url: https://github.com/neil3d/50YearsOfRayTracing
+    - description: 公众号： 壹种念头 教程源码
+      logo: icon_github_com.png
+      title: CatCoding
+      url: https://github.com/hormanlu/CatCoding
+    - description: A brief computer graphics rendering course
+      logo: icon_github_com.png
+      title: tinyrenderer
+      url: https://github.com/ssloy/tinyrenderer
+    - description: A shader-based software renderer written from scratch in C89
+      logo: icon_github_com.png
+      title: renderer
+      url: https://github.com/zauonlok/renderer
+    - description: 'Shader2D: some 2d shader effect'
+      logo: icon_github_com.png
+      title: Shader2D
+      url: https://github.com/nightyan/Shader2D
+    - description: shader 中级教程
+      logo: icon_github_com.png
+      title: FishManShaderTutorial
+      url: https://github.com/JiepengTan/FishManShaderTutorial
+    - description: Step-by-step guide through the abstract and complex universe of
+        Fragment Shaders.
+      logo: icon_github_com.png
+      title: thebookofshaders
+      url: https://github.com/patriciogonzalezvivo/thebookofshaders
+    - description: Cross-platform 3D scene editor based on three.js, golang and mongodb
+        for desktop and web.
+      logo: icon_github_com.png
+      title: ShadowEditor
+      url: https://github.com/tengge1/ShadowEditor
+    - description: 3D C++ Game Engine - yet another open source game engine
+      logo: icon_github_com.png
+      title: LumixEngine
+      url: https://github.com/nem0/LumixEngine
+    - description: GLSL-Card
+      logo: icon_github_com.png
+      title: 着色器语言 GLSL (opengl-shader-language)入门大全
+      url: https://github.com/wshxbqq/GLSL-Card
+    - description: Convert ShaderToy to Unity HLSL/CG
+      logo: icon_github_com.png
+      title: ShaderMan
+      url: https://github.com/smkplus/ShaderMan
+    - description: ⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
+      logo: icon_github_com.png
+      title: Awesome-Unity-Shader
+      url: https://github.com/QianMo/Awesome-Unity-Shader
+    - description: Some demo created by Unity Shader
+      logo: icon_github_com.png
+      title: Unity-Shader-Demo
+      url: https://github.com/KaimaChen/Unity-Shader-Demo
     term: Github
   taxonomy: 技术美术
 - icon: fas fa-tools
@@ -1233,6 +1563,62 @@
       logo: icon_blog_hawkhai_com.png
       title: NoteAI
       url: https://blog.hawkhai.com/
+    - description: 🔥🔥「InterviewGuide」是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们计算机校招&秋招经验总结文章的汇总，包括但不限于C/C++
+        、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！
+      logo: icon_github_com.png
+      title: InterviewGuide
+      url: https://github.com/forthespada/InterviewGuide
+    - description: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版
+        汤小丹）
+      logo: icon_github_com.png
+      title: CS-Xmind-Note
+      url: https://github.com/SSHeRun/CS-Xmind-Note
+    - description: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode,
+        not only how, but also why.
+      logo: icon_github_com.png
+      title: fucking-algorithm
+      url: https://github.com/labuladong/fucking-algorithm
+    - description: 程序员应该访问的最佳网站中文版
+      logo: icon_github_com.png
+      title: Best-websites-a-programmer-should-visit-zh
+      url: https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
+    - description: 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+      logo: icon_github_com.png
+      title: interview_internal_reference
+      url: https://github.com/0voice/interview_internal_reference
+    - description: Freely available programming books
+      logo: icon_github_com.png
+      title: free-programming-books
+      url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
+    - description: 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+      logo: icon_github_com.png
+      title: interview
+      url: https://github.com/huihut/interview
+    - description: ✏️ 算法相关知识储备 LeetCode with Python and JavaScript 📚
+      logo: icon_github_com.png
+      title: leetCode
+      url: https://github.com/HuberTRoy/leetCode
+    - description: 浙江大学课程攻略共享计划
+      logo: icon_github_com.png
+      title: zju-icicles
+      url: https://github.com/QSCTech/zju-icicles
+    - description: OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点，大家可以在这里获取与竞赛相关的、有趣又实用的知识。我们为大家准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速深入地学习编程竞赛中涉及到的知识。
+      logo: icon_oi-wiki_org.png
+      title: OI Wiki
+      url: https://oi-wiki.org/
+    - description: 成为专业程序员路上用到的各种优秀资料、神器及框架
+      logo: icon_github_com.png
+      title: be-a-professional-programmer
+      url: https://github.com/stanzhai/be-a-professional-programmer
+    - description: 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+      logo: icon_cyc2018_xyz.png
+      title: CS-Notes 面试笔记
+      url: https://cyc2018.xyz/
+    - description: Learn how to design large-scale systems. Prep for the system design
+        interview. Includes Anki flashcards.
+      logo: icon_github_com.png
+      title: system-design-primer
+      url: https://github.com/donnemartin/system-design-primer
     term: Blog大牛
   - links:
     - description: Lua官网
@@ -1337,20 +1723,14 @@
       url: https://www.jyshare.com/front-end/53/
     term: 在线工具
   - links:
-    - description: 在线格式化JSON文本
-      logo: json.cn.png
-      title: Json在线格式化1Json在线格式化1
-      url: http://baidu.com/
-    - description: 在线格式化JSON文本 你猜猜我是谁
-      logo: json.cn.png
-      title: Json再出现格式化2
-      url: http://json.cn/
-    term: Test3
-  - links:
     - description: 一款基于纯C++实现的独立的Lua编辑和调试工具
       logo: icon_github_com.png
       title: LuaPerfect
       url: https://github.com/jiangzheng1986/LuaPerfect
+    - description: Lua Profiler For Unity
+      logo: icon_github_com.png
+      title: Miku-LuaProfiler
+      url: https://github.com/leinlin/Miku-LuaProfiler
     term: 开源工具
   taxonomy: 常用工具
 - icon: fas fa-gamepad
