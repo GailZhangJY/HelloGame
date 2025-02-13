@@ -42,6 +42,18 @@
     logo: icon_github_com.png
     title: Game-Programmer-Study-Notes
     url: https://github.com/QianMo/Game-Programmer-Study-Notes
+  - description: 发现好游戏
+    logo: icon_www_taptap_cn.png
+    title: TapTap
+    url: https://www.taptap.cn/
+  - description: 欢迎来到Steam
+    logo: icon_store_steampowered_com.png
+    title: Steam
+    url: https://store.steampowered.com/
+  - description: Google Play Game
+    logo: icon_play_google_com.png
+    title: Google Play Game
+    url: https://play.google.com/store/games
   taxonomy: 行业资讯
 - icon: fas fa-user
   links: []
@@ -70,6 +82,11 @@
       logo: icon_unity_cn.png
       title: Unity Discussions
       url: https://discussions.unity.com/
+    - description: Read stories about how Unity tools and services are powering real-time
+        creativity
+      logo: icon_unity_cn.png
+      title: Unity Blog
+      url: https://unity.com/blog
     - description: Unity中国官网
       logo: icon_unity_cn.png
       title: Unity中国
@@ -686,6 +703,98 @@
       logo: bilibili_308864667.png
       title: 渔夫小朋友
       url: https://space.bilibili.com/308864667
+    - description: Unity官方开发者平台，分享前沿技术视频和开发经验，精彩的Unity活动
+      logo: bilibili_386224375.png
+      title: Unity官方
+      url: https://space.bilibili.com/386224375
+    - description: 干货实用技术分享！
+      logo: bilibili_427983360.png
+      title: 好玩的unity菌
+      url: https://space.bilibili.com/427983360
+    - description: 游戏开发：Unity 编程/美术 独立游戏开发探索 虚幻
+      logo: bilibili_5668258.png
+      title: Unity飞哥独立游戏
+      url: https://space.bilibili.com/5668258
+    - description: 零基础系统学习unity
+      logo: bilibili_39848426.png
+      title: Unity_小栗子
+      url: https://space.bilibili.com/39848426
+    - description: Unity课程相关视频
+      logo: bilibili_1699564338.png
+      title: Unity-siki学院
+      url: https://space.bilibili.com/1699564338
+    - description: 做点课~偏向独立游戏方向
+      logo: bilibili_256503027.png
+      title: Joker_Unity
+      url: https://space.bilibili.com/256503027
+    - description: Unity大玩家
+      logo: bilibili_8052043.png
+      title: 大智_Unity大玩家
+      url: https://space.bilibili.com/8052043
+    - description: 擅长虚拟仿真、AR、VR、MR软件开发
+      logo: bilibili_305128275.png
+      title: Unity大海
+      url: https://space.bilibili.com/305128275
+    - description: 打造一个互帮互助无私分享的环境 Unity Shader入门精要讲解
+      logo: bilibili_3306942.png
+      title: Unity张杰
+      url: https://space.bilibili.com/3306942
+    - description: 带你突破游戏大厂技术屏障，进阶主程、架构师！
+      logo: bilibili_3493090073512250.png
+      title: Unity主程进阶之路
+      url: https://space.bilibili.com/3493090073512250
+    - description: 目前在职8年Unity游戏客户端开发、3年面试官经验。闲来无事爱面试新手，欺负小白，吊打老手。
+      logo: bilibili_485625833.png
+      title: Unity阿布拉
+      url: https://space.bilibili.com/485625833
+    - description: github主页 ：https://github.com/killop
+      logo: bilibili_496245165.png
+      title: 夜莺-killop
+      url: https://space.bilibili.com/496245165
+    - description: 游戏开发：Unity
+      logo: bilibili_553256.png
+      title: 谜の果皮
+      url: https://space.bilibili.com/553256
+    - description: 游戏开发：Unity
+      logo: bilibili_16077272.png
+      title: 天外の飞兔
+      url: https://space.bilibili.com/16077272
+    - description: Unity可视化GIS
+      logo: bilibili_642222650.png
+      title: 贰幺肆GX
+      url: https://space.bilibili.com/642222650
+    - description: Unity教程搬运
+      logo: bilibili_26885148.png
+      title: 香蕉大学
+      url: https://space.bilibili.com/26885148
+    - description: 游戏开发者
+      logo: bilibili_481598982.png
+      title: TippingGame
+      url: https://space.bilibili.com/481598982
+    - description: 惟草木之零落兮，恐美人之迟暮。 Unity游戏开发
+      logo: bilibili_171199489.png
+      title: Yu_Zhen
+      url: https://space.bilibili.com/171199489
+    - description: 一名卑微的打工人 加油往前冲 Unity教程
+      logo: bilibili_23771934.png
+      title: HaloVc
+      url: https://space.bilibili.com/23771934
+    - description: 游戏搬运教程
+      logo: bilibili_390481111.png
+      title: 勿杉
+      url: https://space.bilibili.com/390481111
+    - description: 游戏公司在职Unity开发工程师
+      logo: bilibili_304648178.png
+      title: 码农小徐
+      url: https://space.bilibili.com/304648178
+    - description: Unity培训
+      logo: bilibili_315087225.png
+      title: 齐齐课-Plane
+      url: https://space.bilibili.com/315087225
+    - description: Unity ET框架
+      logo: bilibili_31897457.png
+      title: 字母哥Binary
+      url: https://space.bilibili.com/31897457
     term: 视频博主
   - links:
     - description: Unity官方
@@ -906,12 +1015,6 @@
       url: https://github.com/kisence-mian/MyUnityFrameWork
     term: 开源项目
   - links:
-    - description: 用程序改变世界，用音乐改变生活
-      logo: icon_github_com.png
-      title: Sihuhu
-      url: https://github.com/EStormLynn
-    term: Github名人录
-  - links:
     - description: 坦克大战
       logo: icon_github_com.png
       title: TanksBattle
@@ -965,14 +1068,727 @@
       logo: icon_plastichub_unity_cn.png
       title: Unity-Tech-Cn
       url: https://plastichub.unity.cn/unity-tech-cn
-    term: 有点组织
+    term: 资源推荐
+  taxonomy: Unity3D
+- icon: fas fa-puzzle-piece
+  links: []
+  list:
+  - links: []
+    term: 虚幻官方
+  - links: []
+    term: 文章博主
+  - links:
+    - description: 0基础入门虚幻引擎5 零基础开发卡通黑魂
+      logo: bilibili_519286600.png
+      title: 永昼之庭
+      url: https://space.bilibili.com/519286600
+    - description: 想到就去做，talk is cheap
+      logo: bilibili_8064.png
+      title: ZL_Wang
+      url: https://space.bilibili.com/8064
+    - description: 学习虚幻引擎UE5-建筑可视化-蓝图交互-游戏开发-3D动画-蓝图-电影特效-场景制作-材质-灯光
+      logo: bilibili_391874442.png
+      title: A-peak_虚幻丰哥
+      url: https://space.bilibili.com/391874442
+    - description: 游戏开发：Unreal Engine
+      logo: bilibili_3493273303780263.png
+      title: 虚幻仙人
+      url: https://space.bilibili.com/3493273303780263
+    - description: UP从业游戏行业10+年，喜欢各种研究
+      logo: bilibili_4123208.png
+      title: 王瑨Artist
+      url: https://space.bilibili.com/4123208
+    - description: 使用虚幻引擎纯蓝图~为爱发电做独立游戏！
+      logo: bilibili_22867601.png
+      title: 张亮002
+      url: https://space.bilibili.com/22867601
+    - description: 心中有火，眼里有光。UE5教程
+      logo: bilibili_305892500.png
+      title: HelloWorld杰少
+      url: https://space.bilibili.com/305892500
+    - description: 趁着暖阳正好，让时光停滞，拥抱随性与慵懒 UE5 C++
+      logo: bilibili_310126275.png
+      title: Avidel_
+      url: https://space.bilibili.com/310126275
+    - description: 虚幻引擎传播者，我的目标是让每一位喜爱游戏的年轻人都会自己做游戏
+      logo: bilibili_3493291014228428.png
+      title: 布兰德儿老蒋
+      url: https://space.bilibili.com/3493291014228428
+    term: 视频博主
+  - links: []
+    term: 开源项目
+  - links: []
+    term: 资源推荐
+  taxonomy: UnrealEngine
+- icon: fas fa-star
+  links: []
+  list:
+  - links:
+    - description: Cocos Creator 3.8 用户手册
+      logo: icon_docs_cocos_com.png
+      title: Cocos Creator 3.8 用户手册
+      url: https://docs.cocos.com/creator/3.8/manual/zh/
+    - description: 高效、轻量、跨平台的一体化 3D 开发引擎
+      logo: icon_www_cocos_com.png
+      title: Cocos Creator
+      url: https://www.cocos.com/
+    - description: Cocos中文社区
+      logo: icon_forum_cocos_org.png
+      title: Cocos中文社区
+      url: https://forum.cocos.org/
+    - description: Cocos商城
+      logo: icon_www_cocos_com.png
+      title: Cocos Store
+      url: https://store.cocos.com/app/
+    term: Cocos官方
+  - links: []
+    term: 文章博主
+  - links:
+    - description: Cocos官方账号
+      logo: bilibili_491120849.png
+      title: Cocos引擎官方
+      url: https://space.bilibili.com/491120849
+    - description: 游戏开发：Cocos Unity
+      logo: bilibili_303957852.png
+      title: Sli97
+      url: https://space.bilibili.com/303957852
+    term: 视频博主
+  - links: []
+    term: 开源项目
+  - links: []
+    term: 资源推荐
+  taxonomy: CocosCreator
+- icon: fab fa-artstation
+  links: []
+  list:
+  - links:
+    - description: HLSL and UE4 Development Blog
+      logo: icon_unity_cn.png
+      title: Shader Bits
+      url: https://shaderbits.com/
+    - description: CGWiki
+      logo: icon_tokeru_com.png
+      title: CGWiki
+      url: https://tokeru.com/cgwiki/
+    - description: 学习和掌握CG项目管道流程（Pipeline&Workflow）
+      logo: icon_cg-td-course_readthedocs_io.png
+      title: CG TD Pipeline
+      url: https://cg-td-course.readthedocs.io/zh-cn/latest/
+    - description: OpenGL中文
+      logo: icon_learnopengl-cn_github_io.png
+      title: LearnOpenGL CN
+      url: https://learnopengl-cn.github.io/
+    - description: Shader Tutorials
+      logo: unity.png
+      title: Shader Tutorials
+      url: https://www.ronja-tutorials.com/
+    - description: 游戏开发
+      logo: test.png
+      title: 渲染教程框架目录
+      url: https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs
+    - description: Awesome Vulkan ecosystem
+      logo: icon_www_vinjn_com.png
+      title: Awesome Vulkan
+      url: https://www.vinjn.com/awesome-vulkan/
+    - description: Cross platform 3D renderer in C++ and OpenGL with lighting, shadows
+        and materials.
+      logo: test.png
+      title: RendererGL
+      url: https://github.com/MorcilloSanz/RendererGL
+    - description: 这是一本关于 Fragment Shaders（片段着色器）的入门指南，它将一步一步地带你领略其中的纷繁与抽象。
+      logo: icon_107.png
+      title: The Book of Shaders
+      url: https://thebookofshaders.com/?lan=ch
+    - description: 构建和分享界上你最喜欢的着色器并受启发
+      logo: icon_105.png
+      title: Shadertoy
+      url: https://www.shadertoy.com/
+    term: 在线资源
+  - links:
+    - description: 活跃我国计算机图形学和虚拟现实的研究 促进学者之间的思想交流和学术合作 报告和研讨相关方向的研究热点和发展趋势 图形学研究工作者与相关产业工作者之间的桥梁
+      logo: icon_games-cn_org.png
+      title: 计算机图形学与混合现实在线平台
+      url: https://games-cn.org/
+    - description: 本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。
+      logo: icon_games-cn_org.png
+      title: GAMES101:现代计算机图形学入门
+      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+        课程QQ群：705885217
+      logo: icon_space_bilibili_com.png
+      title: GAMES101-现代计算机图形学入门
+      url: https://www.bilibili.com/video/BV1X7411F744/
+    - description: 本课程将以专题的形式呈现，课程内容会覆盖学术界与工业界的前沿内容，包括：（1）实时软阴影的渲染；（2）环境光照；（3）基于预计算或无预计算的全局光照；（4）基于物理的着色模型与方法；（5）实时光线追踪；（6）抗锯齿与超采样；以及一些常见的加速方式等等。
+      logo: icon_games-cn_org.png
+      title: 'GAMES202: 高质量实时渲染'
+      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+    - description: GAMES 202课程：《高质量实时渲染》 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+      logo: icon_space_bilibili_com.png
+      title: GAMES202-高质量实时渲染
+      url: https://www.bilibili.com/video/BV1YK4y1T7yY/
+    - description: GAMES104课程将介绍现代游戏引擎所涉及的系统架构、 技术点和引擎系统相关的知识。GAMES104课程分成三个部分：现代引擎架构综述、各核心系统原理和开发、前沿领域简介。
+      logo: icon_games104_boomingtech_com.png
+      title: GAMES104-现代游戏引擎：从入门到实践
+      url: https://games104.boomingtech.com/
+    - description: 本课程将介绍现代游戏引擎所涉及的系统架构，技术点，引擎系统相关的知识。通过该课程，你能够对游戏引擎建立起一个全面且完整的了解。如果你动手能力足够强，你将能够跟随课程，从0到1搭建起一个完整的迷你游戏引擎。本课程适合相关专业领域的学生、研究者，以及所有对游戏引擎设计和开发感兴趣的人。  课程会分成以下三个部分：一、现代引擎架构综述。二、各核心系统原理和开发。三、前沿领域简介。在每个部分中，将通过讲解、问答、课后作业的形式，带领你学习一个现代游戏引擎背后牵涉到的计算机体系结构，软件架构，各个系统特定的知识，了解大型软件系统设计和实施背后的复杂性，以及提高自身的编程能力。  练习与实践：在本课程中，我们会准备一段开源的引擎框架，选取部分易上手的知识点，让你能够跟随课程节奏，亲手构建一个迷你引擎，体验系统架构的乐趣。  注意：本课程的核心是让同学们构建一个开发平台，不会去侧重于讲特定引擎的使用方法，也不会深入到具体效果实现；比如：用shader实现水面效果等。
+      logo: icon_space_bilibili_com.png
+      title: GAMES104-现代游戏引擎：从入门到实践
+      url: https://www.bilibili.com/video/BV1oU4y1R7Km/
+    term: GAMES专题
+  - links:
+    - description: 技术美术
+      logo: icon_blog_l0v0_com.png
+      title: 智伤帝的个人博客
+      url: https://blog.l0v0.com/
+    - description: xiaOp的博客
+      logo: icon_xiaoiver_github_io.png
+      title: xiaOp的博客
+      url: https://xiaoiver.github.io/
+    - description: 游戏开发:Unity 生成式艺术
+      logo: icon_101.png
+      title: giuyyt
+      url: https://giuyyt.github.io/
+    - description: Unity Shader入门精要作者
+      logo: icon_candycat1992_github_io.png
+      title: 冯乐乐-candycat1992
+      url: https://candycat1992.github.io/
+    - description: Vulkan API
+      logo: icon_102.png
+      title: Sascha Willems
+      url: https://www.saschawillems.de/
+    - description: 愿天下心诚剑士人人可剑开天门！
+      logo: icon_www_lfzxb_top.png
+      title: 烟雨迷离半世殇
+      url: https://www.lfzxb.top/
+    - description: 一生想做浪漫极客
+      logo: icon_github_com.png
+      title: Luffy Blog
+      url: https://luumoon.github.io/
+    term: 文章博主
+  - links:
+    - description: HLSL Shader
+      logo: icon_www_youtube_com.png
+      title: Ben Cloward-HLSL Shader
+      url: https://www.youtube.com/watch?v=MKio4MNM3CI
+    - description: ShaderGLSL学习项目实操
+      logo: bilibili_1850339213.png
+      title: 雷神ZMLXJ
+      url: https://space.bilibili.com/1850339213
+    - description: 某热爱图形学的褪色者
+      logo: bilibili_425094061.png
+      title: HeaoYe
+      url: https://space.bilibili.com/425094061
+    - description: 图形学 数字集合处理
+      logo: bilibili_610800557.png
+      title: 几何处理
+      url: https://space.bilibili.com/610800557
+    - description: 人类知识传承计划委员会首席布道专员 游戏开发 Blender
+      logo: bilibili_6708009.png
+      title: 阿发你好
+      url: https://space.bilibili.com/6708009
+    - description: Unity / Shader Graph入门分享会
+      logo: bilibili_209197077.png
+      title: 澜莓凤梨酥
+      url: https://space.bilibili.com/209197077
+    - description: 5年特效，3年技美
+      logo: bilibili_449598683.png
+      title: 一个小美术
+      url: https://space.bilibili.com/449598683
+    - description: 从零开始写引擎 OpenGL
+      logo: bilibili_269553534.png
+      title: 博瑜图形
+      url: https://space.bilibili.com/269553534
+    - description: 保持谦虚|持续学习|博客 https://blog.csdn.net/qq_418353
+      logo: bilibili_325045798.png
+      title: 九九345
+      url: https://space.bilibili.com/325045798
+    - description: 14年一线大厂主程经验，《剑网三》图形引擎专家，深入浅出带你掌握大厂技术美术技能！
+      logo: bilibili_2006399219.png
+      title: Shader教程
+      url: https://space.bilibili.com/2006399219
+    - description: 民间图形学爱好者 交流Q群962111373
+      logo: bilibili_393600758.png
+      title: 星尘Adiosy
+      url: https://space.bilibili.com/393600758
+    - description: 分享最新最好的技术美术干货小知识
+      logo: bilibili_3546660779068364.png
+      title: 坐标世界-TA
+      url: https://space.bilibili.com/3546660779068364
+    - description: AMD图形技术分享社区——let's build everything！
+      logo: bilibili_1819489782.png
+      title: AMDGPUOpen
+      url: https://space.bilibili.com/1819489782
+    - description: 一个深耕TA的大葱努力讲大家能听懂的TA
+      logo: bilibili_3537113767217952.png
+      title: 学TA找大葱
+      url: https://space.bilibili.com/3537113767217952
+    term: 视频博主
+  - links:
+    - description: Implementing a Soft Renderer for Learning CG.
+      logo: icon_github_com.png
+      title: YwSoftRenderer
+      url: https://github.com/yaukeywang/YwSoftRenderer
+    - description: Learn opengl together
+      logo: icon_github_com.png
+      title: start-learning-opengl
+      url: https://github.com/yocover/start-learning-opengl
+    - description: 本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（截止到2023.10.30）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
+      logo: icon_github_com.png
+      title: 《Real-Time Rendering 4th》 (RTR4) 中文翻译
+      url: https://github.com/Morakito/Real-Time-Rendering-4th-CN
+    - description: 'Dear ImGui: Bloat-free Graphical User interface for C++ with minimal
+        dependencies'
+      logo: icon_github_com.png
+      title: imgui
+      url: https://github.com/ocornut/imgui
+    - description: 这是一个基于URP的开源仿原神卡通渲染项目
+      logo: icon_github_com.png
+      title: GenshinCelShaderURP
+      url: https://github.com/Gaolingx/GenshinCelShaderURP
+    - description: Toon Shading Collection (for Character) 角色卡通渲染效果分析收集/速查手册/小百科
+      logo: icon_github_com.png
+      title: ToonShadingCollection
+      url: https://github.com/TechMiZ/ToonShadingCollection
+    - description: 记录学习Unity Shader过程中实现过的一些Demo。
+      logo: icon_github_com.png
+      title: LearnUnityShader
+      url: https://github.com/csdjk/LearnUnityShader
+    - description: Unity URP Shader 代码示例
+      logo: icon_github_com.png
+      title: URPShaderCodeSample
+      url: https://github.com/AnCG7/URPShaderCodeSample
+    - description: 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting,
+        normal mapping, and more for your 3D game.
+      logo: icon_github_com.png
+      title: 3d-game-shaders-for-beginners
+      url: https://github.com/lettier/3d-game-shaders-for-beginners
+    - description: 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
+      logo: icon_github_com.png
+      title: 50YearsOfRayTracing
+      url: https://github.com/neil3d/50YearsOfRayTracing
+    - description: 公众号： 壹种念头 教程源码
+      logo: icon_github_com.png
+      title: CatCoding
+      url: https://github.com/hormanlu/CatCoding
+    - description: A brief computer graphics rendering course
+      logo: icon_github_com.png
+      title: tinyrenderer
+      url: https://github.com/ssloy/tinyrenderer
+    - description: A shader-based software renderer written from scratch in C89
+      logo: icon_github_com.png
+      title: renderer
+      url: https://github.com/zauonlok/renderer
+    - description: 'Shader2D: some 2d shader effect'
+      logo: icon_github_com.png
+      title: Shader2D
+      url: https://github.com/nightyan/Shader2D
+    - description: shader 中级教程
+      logo: icon_github_com.png
+      title: FishManShaderTutorial
+      url: https://github.com/JiepengTan/FishManShaderTutorial
+    - description: Step-by-step guide through the abstract and complex universe of
+        Fragment Shaders.
+      logo: icon_github_com.png
+      title: thebookofshaders
+      url: https://github.com/patriciogonzalezvivo/thebookofshaders
+    - description: Cross-platform 3D scene editor based on three.js, golang and mongodb
+        for desktop and web.
+      logo: icon_github_com.png
+      title: ShadowEditor
+      url: https://github.com/tengge1/ShadowEditor
+    - description: 3D C++ Game Engine - yet another open source game engine
+      logo: icon_github_com.png
+      title: LumixEngine
+      url: https://github.com/nem0/LumixEngine
+    - description: GLSL-Card
+      logo: icon_github_com.png
+      title: 着色器语言 GLSL (opengl-shader-language)入门大全
+      url: https://github.com/wshxbqq/GLSL-Card
+    - description: Convert ShaderToy to Unity HLSL/CG
+      logo: icon_github_com.png
+      title: ShaderMan
+      url: https://github.com/smkplus/ShaderMan
+    - description: ⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
+      logo: icon_github_com.png
+      title: Awesome-Unity-Shader
+      url: https://github.com/QianMo/Awesome-Unity-Shader
+    - description: Some demo created by Unity Shader
+      logo: icon_github_com.png
+      title: Unity-Shader-Demo
+      url: https://github.com/KaimaChen/Unity-Shader-Demo
+    term: 开源项目
+  taxonomy: 技术美术
+- icon: fas fa-tools
+  links: []
+  list:
+  - links:
+    - description: 独立游戏
+      logo: test.png
+      title: TinyFlare
+      url: http://tinyflare.com/
+    - description: French indie game, XR, web and software developer. I love programming,
+        creating and hacking stuff.
+      logo: icon_dmayance_com.png
+      title: Damien Mayance
+      url: https://dmayance.com/
+    term: 开源游戏
+  - links:
+    - description: 专业模型创作分享社区
+      logo: icon_www_aplaybox_com.png
+      title: 模之屋
+      url: https://www.aplaybox.com/
+    - description: Bring your projects to life with 3D characters, skeletal rigs,
+        and animations, ready for use in film, games, interactive experiences and
+        illustration.
+      logo: icon_www_mixamo_com.png
+      title: mixamo
+      url: https://www.mixamo.com/
+    - description: 3D模型动作
+      logo: icon_sketchfab_com.png
+      title: Sketchfab
+      url: https://sketchfab.com/3d-models/popular
+    - description: cgsmall
+      logo: test.png
+      title: cgsmall
+      url: http://www.cgsmall.com/
+    term: 模型动作特效
+  - links:
+    - description: the incomplete works of Madeline Stephanie Thorson lifelong maker
+        of games
+      logo: icon_www_maddymakesgames_com.png
+      title: MADDY MAKES GAMES
+      url: https://www.maddymakesgames.com/
+    term: 独立游戏
+  - links:
+    - description: 游戏开发资源
+      logo: icon_indienova_com.png
+      title: INDIENOVA-游戏开发资源
+      url: https://indienova.com/sp/gameDevResource
+    - description: PlayMaker
+      logo: icon_hutonggames_com.png
+      title: PlayMaker
+      url: https://hutonggames.com/
+    term: 在线资源
+  - links:
+    - description: 目标是成为职业化的独立游戏人  正在一个人从零开发游戏《汴京小货郎
+      logo: bilibili_14759305.png
+      title: 瓶子做游戏
+      url: https://space.bilibili.com/14759305
+    - description: 一个混迹于游戏行业的老爸，中传动院等高校游戏系专业课老师
+      logo: bilibili_38487134.png
+      title: Nowpaper
+      url: https://space.bilibili.com/38487134
+    - description: 一名资深的Loser，《节奏制作人》和《只因兄弟》作者
+      logo: bilibili_95773079.png
+      title: 贾宝蛋
+      url: https://space.bilibili.com/95773079
+    - description: 我是沉默之沙，任人千踏万踏，总要悠悠岁月还我本来容颜，总在灵魂深处藏了一些喜悲
+      logo: bilibili_20007781.png
+      title: AKUMA-Zhang
+      url: https://space.bilibili.com/20007781
+    - description: 独立游戏开发的萌汉子一头 (～￣▽￣)～
+      logo: bilibili_341869036.png
+      title: CYCLE_6
+      url: https://space.bilibili.com/341869036
+    - description: 独立游戏全栈开发者
+      logo: bilibili_44956606.png
+      title: 叶小羽SpringLeaf
+      url: https://space.bilibili.com/44956606
+    - description: 8年游戏特效师
+      logo: bilibili_1138518084.png
+      title: 游戏特效师_Curry
+      url: https://space.bilibili.com/1138518084
+    - description: ue5开发quest3 大空间 MR 游戏中
+      logo: bilibili_37564348.png
+      title: 骑驴的巫师
+      url: https://space.bilibili.com/37564348
+    - description: Unity实现了一个很有意思的桌宠
+      logo: bilibili_25240561.png
+      title: 游戏爱好者的猫猫
+      url: https://space.bilibili.com/25240561
+    - description: 独立游戏，《我的时光：大学日记》开发者
+      logo: bilibili_3546655328570205.png
+      title: 小明做游戏
+      url: https://space.bilibili.com/3546655328570205
+    - description: Unity独立游戏开发
+      logo: bilibili_641563.png
+      title: 独立开发者C酱
+      url: https://space.bilibili.com/641563
+    - description: 游戏研发攻城狮，游戏区Bug主，引擎只是载体，思路才是关键，喜欢可以点点关注~
+      logo: bilibili_302482063.png
+      title: 打工人小棋
+      url: https://space.bilibili.com/302482063
+    - description: 独立游戏《无尽的休闲驾驶》
+      logo: bilibili_15437984.png
+      title: 阿基就是我啦
+      url: https://space.bilibili.com/15437984
+    - description: 一个做游戏的，除了游戏不会别的。
+      logo: bilibili_8618918.png
+      title: 玩物不丧志的老李
+      url: https://space.bilibili.com/8618918
+    - description: 专注游戏纪录片 精神天津人 全网同名 外网BKinGfilm 嘉宾观点不代表我的立场
+      logo: bilibili_10500463.png
+      title: 导演BK
+      url: https://space.bilibili.com/10500463
+    - description: 程序员、技术美术、三维建模…梦想家、咕咕王~
+      logo: bilibili_2648512.png
+      title: 虾不咕
+      url: https://space.bilibili.com/2648512
+    - description: 嗨，我们频道会分享游戏开发相关的内容，欢迎关注我们一起进步～对频道的任何建议可联系wenleiDev@鸡mail
+      logo: bilibili_470625217.png
+      title: 玩乐进化
+      url: https://space.bilibili.com/470625217
+    - description: CG教程
+      logo: bilibili_2093561191.png
+      title: CG大魔王W
+      url: https://space.bilibili.com/2093561191
+    - description: 创作一款大家爱玩的游戏
+      logo: bilibili_537904215.png
+      title: 独立游戏人-老雷
+      url: https://space.bilibili.com/537904215
+    - description: 致力于做历史题材游戏的一对夫妻，制作《横戈》中。
+      logo: bilibili_400632941.png
+      title: 游戏竹子
+      url: https://space.bilibili.com/400632941
+    - description: 零基础独立开发一款伟大的网络游戏
+      logo: bilibili_538849453.png
+      title: 疯陈演义
+      url: https://space.bilibili.com/538849453
+    term: 视频博主
+  taxonomy: 独立游戏
+- icon: fas fa-computer
+  links: []
+  list:
+  - links:
+    - description: 廖雪峰的官方网站
+      logo: icon_liaoxuefeng_com.png
+      title: 廖雪峰的官方网站
+      url: https://liaoxuefeng.com/
+    - description: 享受编程和技术所带来的快乐 – Coding Your Ambition
+      logo: icon_coolshell_cn.png
+      title: 酷 壳 – CoolShell
+      url: https://coolshell.cn/
+    - description: 我有一个伟大的愿望。我希望凭借自己的努力，净化程序员的环境，提升程序员的地位。愿 IT 界再无黑心企业的剥削，无人自嘲 “码农”、“码畜”，技术人员受到足够尊重，写程序重新成为一种创造性的劳动。软件行业，重新成为令人羡慕的行业。自由、开放、创新、包容。
+      logo: icon_www_raychase_net.png
+      title: 四火的唠叨
+      url: https://www.raychase.net/
+    - description: 知道创宇研发技能表v3.1
+      logo: test.png
+      title: 知道创宇研发技能表v3.1
+      url: https://blog.knownsec.com/Knownsec_RD_Checklist/index.html
+    - description: Ubuntu 中文站点是关于 Ubuntu Linux 的中文支持站点，是一个 Ubuntu 官方所认可的社区，担负发行版中文翻译、开发、以及提供本地化支持的职能。   Ubuntu
+        中文 Wiki 是一个为 Ubuntu Linux 编写文档的非盈利性 Wiki 站点，我们在这里创作、改进、收集和整理 Ubuntu 相关的中文文档
+      logo: icon_wiki_ubuntu_org_cn.png
+      title: Ubuntu中文Wiki
+      url: https://wiki.ubuntu.org.cn/
+    - description: 编程与调试 图形学 机器学习
+      logo: icon_blog_hawkhai_com.png
+      title: NoteAI
+      url: https://blog.hawkhai.com/
+    - description: 🔥🔥「InterviewGuide」是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们计算机校招&秋招经验总结文章的汇总，包括但不限于C/C++
+        、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！
+      logo: icon_github_com.png
+      title: InterviewGuide
+      url: https://github.com/forthespada/InterviewGuide
+    - description: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版
+        汤小丹）
+      logo: icon_github_com.png
+      title: CS-Xmind-Note
+      url: https://github.com/SSHeRun/CS-Xmind-Note
+    - description: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode,
+        not only how, but also why.
+      logo: icon_github_com.png
+      title: fucking-algorithm
+      url: https://github.com/labuladong/fucking-algorithm
+    - description: 程序员应该访问的最佳网站中文版
+      logo: icon_github_com.png
+      title: Best-websites-a-programmer-should-visit-zh
+      url: https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
+    - description: 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+      logo: icon_github_com.png
+      title: interview_internal_reference
+      url: https://github.com/0voice/interview_internal_reference
+    - description: Freely available programming books
+      logo: icon_github_com.png
+      title: free-programming-books
+      url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
+    - description: 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+      logo: icon_github_com.png
+      title: interview
+      url: https://github.com/huihut/interview
+    - description: ✏️ 算法相关知识储备 LeetCode with Python and JavaScript 📚
+      logo: icon_github_com.png
+      title: leetCode
+      url: https://github.com/HuberTRoy/leetCode
+    - description: 浙江大学课程攻略共享计划
+      logo: icon_github_com.png
+      title: zju-icicles
+      url: https://github.com/QSCTech/zju-icicles
+    - description: OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点，大家可以在这里获取与竞赛相关的、有趣又实用的知识。我们为大家准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速深入地学习编程竞赛中涉及到的知识。
+      logo: icon_oi-wiki_org.png
+      title: OI Wiki
+      url: https://oi-wiki.org/
+    - description: 成为专业程序员路上用到的各种优秀资料、神器及框架
+      logo: icon_github_com.png
+      title: be-a-professional-programmer
+      url: https://github.com/stanzhai/be-a-professional-programmer
+    - description: 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+      logo: icon_cyc2018_xyz.png
+      title: CS-Notes 面试笔记
+      url: https://cyc2018.xyz/
+    - description: Learn how to design large-scale systems. Prep for the system design
+        interview. Includes Anki flashcards.
+      logo: icon_github_com.png
+      title: system-design-primer
+      url: https://github.com/donnemartin/system-design-primer
+    - description: https://jyywiki.cn/
+      logo: bilibili_202224425.png
+      title: 绿导师原谅你了
+      url: https://space.bilibili.com/202224425
+    - description: 想让小白更好的入门算法！
+      logo: bilibili_267888512.png
+      title: 一只会code的小金鱼
+      url: https://space.bilibili.com/267888512
+    - description: 致力于用短视频展示题解
+      logo: icon_108.png
+      title: 刷题咖啡馆
+      url: https://code-cp.github.io/
+    term: 在线资源
+  - links:
+    - description: Lua官网
+      logo: icon_www_lua_org.png
+      title: Lua
+      url: https://www.lua.org/
+    - description: Lua 5.3 参考手册-云风
+      logo: icon_www_lua_org.png
+      title: Lua 5.3 参考手册
+      url: https://cloudwu.github.io/lua53doc/contents.html
+    - description: C++高性能服务器框架
+      logo: icon_www_sylar_top.png
+      title: sylar的博客
+      url: http://www.sylar.top/blog/
+    - description: 中文，免费，零起点，完整示例，基于最新的Python 3版本
+      logo: icon_liaoxuefeng_com.png
+      title: Python 3教程-廖雪峰
+      url: https://liaoxuefeng.com/books/python/introduction/index.html
+    - description: 先做人，再做技术人员，最后做程序员。打造国内最好的.NET技术博客。
+      logo: icon_blog_zhaojie_me.png
+      title: 老赵点滴 - 追求编程之美
+      url: http://blog.zhaojie.me/
+    - description: A curated list of awesome C++ (or C) frameworks, libraries, resources,
+        and shiny things.
+      logo: icon_github_com.png
+      title: awesome-cpp
+      url: https://github.com/fffaraz/awesome-cpp
+    - description: C# 指南包含文章、教程和代码示例，可帮助你开始使用 C# 和 .NET 平台。 经验丰富的开发人员可以在“新增功能”部分了解新功能。
+        经验丰富的开发人员可以从参考和语言规范中了解语言行为的详细信息。
+      logo: icon_learn_microsoft_com.png
+      title: C# 语言文档-微软官方
+      url: https://learn.microsoft.com/zh-cn/dotnet/csharp/
+    - description: Effective C# 改善C#程序的50种方法
+      logo: test.png
+      title: Effective C# 改善C#程序的50种方法
+      url: https://wizardforcel.gitbooks.io/effective-csharp/content/index.html
+    - description: .NET and Windows App Developer, Microsoft MVP
+      logo: icon_blog_walterlv_com.png
+      title: 吕毅
+      url: https://blog.walterlv.com/about/
+    - description: C#.Net筑基
+      logo: icon_www_cnblogs_com.png
+      title: /*梦里花落知多少*/-@安木夕
+      url: https://www.cnblogs.com/anding
+    - description: 在香港做程序员的北京人。2012年起至现在一直从事.NET平台的C#开发。平时喜欢研究技术，广交朋友，锻炼身体，和朋友聚会扯淡。
+      logo: icon_www_cnblogs_com.png
+      title: Due勤奋的猪
+      url: https://www.cnblogs.com/haoyifei
+    - description: 菜鸟教程 - 学的不仅是技术，更是梦想！
+      logo: icon_www_runoob_com.png
+      title: 菜鸟教程
+      url: https://www.runoob.com/
+    term: 编程开发
+  - links:
+    - description: LeetCode
+      logo: icon_leetcode_com.png
+      title: LeetCode
+      url: https://leetcode.com/
+    - description: LeetCode中文
+      logo: icon_leetcode_com.png
+      title: 力扣
+      url: https://leetcode.cn/
+    - description: LeetCode算法比赛解析
+      logo: icon_github_tiankonguse_com.png
+      title: tiankonguse's 代码世界
+      url: https://github.tiankonguse.com/
+    - description: LeetCode 一句话题解
+      logo: icon_github_com.png
+      title: leetcode-zhuli
+      url: https://github.com/zhuli19901106/leetcode-zhuli
+    - description: 浙江大学PAT题解/LeetCode Online Judge刷题题解/蓝桥杯竞赛练习题的题解
+      logo: icon_www_liuchuo_net.png
+      title: liuchuo-柳婼
+      url: https://www.liuchuo.net/
+    - description: 浙江大学PAT题解/LeetCode Online Judge刷题题解/蓝桥杯竞赛练习题的题解
+      logo: icon_github_com.png
+      title: liuchuo-柳婼
+      url: https://github.com/liuchuo
+    term: 数据结构与算法
+  - links: []
+    term: 网络与操作系统
+  - links: []
+    term: 数据库
+  - links:
+    - description: Git 的奇技淫巧
+      logo: icon_github_com.png
+      title: git-tips
+      url: https://github.com/521xueweihan/git-tips
+    term: 版本管理
   - links:
     - description: 关于数学和编程方面的文章
       logo: icon_pywonderland_com.png
       title: Zhao Liang
       url: https://pywonderland.com/
     term: 数学
-  taxonomy: Unity3D
+  - links:
+    - description: 专注 .NET 领域的 windbg 底层调试，十年资深老码农带您一起分析程序的用户态和内核态，更多高质量干货
+      logo: bilibili_409524162.png
+      title: 一线码农聊技术
+      url: https://space.bilibili.com/409524162
+    - description: 陈硕——大龄 C++ 码农，业余电子爱好者
+      logo: bilibili_1356949475.png
+      title: bnu_chenshuo
+      url: https://space.bilibili.com/1356949475
+    - description: 鹅厂打工人丨C++神教之中国分教徒丨业余golang补刀师
+      logo: bilibili_267460290.png
+      title: r00tk1t
+      url: https://space.bilibili.com/267460290
+    - description: 编程开发教程
+      logo: bilibili_107861587.png
+      title: 图灵学院教程
+      url: https://space.bilibili.com/107861587
+    - description: 计算机课程
+      logo: bilibili_37974444.png
+      title: 黑马程序员
+      url: https://space.bilibili.com/37974444
+    - description: 公司企业文化 ：为用户做好个性化的职业规划服务，打造有服务有温度，有帮助的产品，服务是第一驱动力
+      logo: bilibili_1899706498.png
+      title: 马士兵官方账号
+      url: https://space.bilibili.com/1899706498
+    - description: CPP大佬
+      logo: bilibili_1581829037.png
+      title: 跟侯捷学CPP
+      url: https://space.bilibili.com/1581829037
+    - description: 一名快乐的程序员
+      logo: bilibili_27948784.png
+      title: 杨中科
+      url: https://space.bilibili.com/27948784
+    term: 视频博主
+  - links:
+    - description: 坐标北美 随缘更新
+      logo: bilibili_163531251.png
+      title: 小雨在烦恼什么
+      url: https://space.bilibili.com/163531251
+    term: 程序媛&程序猿
+  taxonomy: 计算机
 - icon: fas fa-book
   links: []
   list:
@@ -1265,256 +2081,76 @@
       logo: book_1441780.jpg
       title: 游戏之旅
       url: https://book.douban.com/subject/1441780/
-    term: 计算机
+    term: 计算机/编程/程序员相关
   taxonomy: 书单分享
-- icon: fab fa-artstation
+- icon: fab fa-unity
   links: []
   list:
   - links:
-    - description: HLSL and UE4 Development Blog
-      logo: icon_unity_cn.png
-      title: Shader Bits
-      url: https://shaderbits.com/
-    - description: CGWiki
-      logo: icon_tokeru_com.png
-      title: CGWiki
-      url: https://tokeru.com/cgwiki/
-    - description: 学习和掌握CG项目管道流程（Pipeline&Workflow）
-      logo: icon_cg-td-course_readthedocs_io.png
-      title: CG TD Pipeline
-      url: https://cg-td-course.readthedocs.io/zh-cn/latest/
-    - description: OpenGL中文
-      logo: icon_learnopengl-cn_github_io.png
-      title: LearnOpenGL CN
-      url: https://learnopengl-cn.github.io/
-    - description: Shader Tutorials
-      logo: unity.png
-      title: Shader Tutorials
-      url: https://www.ronja-tutorials.com/
-    - description: 游戏开发
-      logo: test.png
-      title: 渲染教程框架目录
-      url: https://docs.qq.com/doc/DUFdKZE1oVFd3ZlBs
-    - description: Awesome Vulkan ecosystem
-      logo: icon_www_vinjn_com.png
-      title: Awesome Vulkan
-      url: https://www.vinjn.com/awesome-vulkan/
-    - description: Cross platform 3D renderer in C++ and OpenGL with lighting, shadows
-        and materials.
-      logo: test.png
-      title: RendererGL
-      url: https://github.com/MorcilloSanz/RendererGL
-    - description: 这是一本关于 Fragment Shaders（片段着色器）的入门指南，它将一步一步地带你领略其中的纷繁与抽象。
-      logo: icon_107.png
-      title: The Book of Shaders
-      url: https://thebookofshaders.com/?lan=ch
-    term: 在线资源
+    - description: 游戏策划
+      logo: bilibili_251381575.png
+      title: 讲知识的游戏字母
+      url: https://space.bilibili.com/251381575
+    - description: 黑马的故事永远让人心潮澎
+      logo: bilibili_19662059.png
+      title: 可爱猫哥哥
+      url: https://space.bilibili.com/19662059
+    term: 策划
+  - links: []
+    term: 服务器
+  - links: []
+    term: 测试
+  - links: []
+    term: 美术
+  - links: []
+    term: 游戏安全
   - links:
-    - description: 活跃我国计算机图形学和虚拟现实的研究 促进学者之间的思想交流和学术合作 报告和研讨相关方向的研究热点和发展趋势 图形学研究工作者与相关产业工作者之间的桥梁
-      logo: icon_games-cn_org.png
-      title: 计算机图形学与混合现实在线平台
-      url: https://games-cn.org/
-    - description: 本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。
-      logo: icon_games-cn_org.png
-      title: GAMES101:现代计算机图形学入门
-      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-    - description: GAMES101 现代计算机图形学入门 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-        课程QQ群：705885217
-      logo: icon_space_bilibili_com.png
-      title: GAMES101-现代计算机图形学入门
-      url: https://www.bilibili.com/video/BV1X7411F744/
-    - description: 本课程将以专题的形式呈现，课程内容会覆盖学术界与工业界的前沿内容，包括：（1）实时软阴影的渲染；（2）环境光照；（3）基于预计算或无预计算的全局光照；（4）基于物理的着色模型与方法；（5）实时光线追踪；（6）抗锯齿与超采样；以及一些常见的加速方式等等。
-      logo: icon_games-cn_org.png
-      title: 'GAMES202: 高质量实时渲染'
-      url: https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
-    - description: GAMES 202课程：《高质量实时渲染》 主讲老师：闫令琪，UCSB 课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
-      logo: icon_space_bilibili_com.png
-      title: GAMES202-高质量实时渲染
-      url: https://www.bilibili.com/video/BV1YK4y1T7yY/
-    - description: GAMES104课程将介绍现代游戏引擎所涉及的系统架构、 技术点和引擎系统相关的知识。GAMES104课程分成三个部分：现代引擎架构综述、各核心系统原理和开发、前沿领域简介。
-      logo: icon_games104_boomingtech_com.png
-      title: GAMES104-现代游戏引擎：从入门到实践
-      url: https://games104.boomingtech.com/
-    - description: 本课程将介绍现代游戏引擎所涉及的系统架构，技术点，引擎系统相关的知识。通过该课程，你能够对游戏引擎建立起一个全面且完整的了解。如果你动手能力足够强，你将能够跟随课程，从0到1搭建起一个完整的迷你游戏引擎。本课程适合相关专业领域的学生、研究者，以及所有对游戏引擎设计和开发感兴趣的人。  课程会分成以下三个部分：一、现代引擎架构综述。二、各核心系统原理和开发。三、前沿领域简介。在每个部分中，将通过讲解、问答、课后作业的形式，带领你学习一个现代游戏引擎背后牵涉到的计算机体系结构，软件架构，各个系统特定的知识，了解大型软件系统设计和实施背后的复杂性，以及提高自身的编程能力。  练习与实践：在本课程中，我们会准备一段开源的引擎框架，选取部分易上手的知识点，让你能够跟随课程节奏，亲手构建一个迷你引擎，体验系统架构的乐趣。  注意：本课程的核心是让同学们构建一个开发平台，不会去侧重于讲特定引擎的使用方法，也不会深入到具体效果实现；比如：用shader实现水面效果等。
-      logo: icon_space_bilibili_com.png
-      title: GAMES104-现代游戏引擎：从入门到实践
-      url: https://www.bilibili.com/video/BV1oU4y1R7Km/
-    term: GAMES专题
-  - links:
-    - description: 技术美术
-      logo: icon_blog_l0v0_com.png
-      title: 智伤帝的个人博客
-      url: https://blog.l0v0.com/
-    - description: xiaOp的博客
-      logo: icon_xiaoiver_github_io.png
-      title: xiaOp的博客
-      url: https://xiaoiver.github.io/
-    - description: 游戏开发:Unity 生成式艺术
-      logo: icon_101.png
-      title: giuyyt
-      url: https://giuyyt.github.io/
-    - description: Unity Shader入门精要作者
-      logo: icon_candycat1992_github_io.png
-      title: 冯乐乐-candycat1992
-      url: https://candycat1992.github.io/
-    - description: Vulkan API
-      logo: icon_102.png
-      title: Sascha Willems
-      url: https://www.saschawillems.de/
-    - description: 愿天下心诚剑士人人可剑开天门！
-      logo: icon_www_lfzxb_top.png
-      title: 烟雨迷离半世殇
-      url: https://www.lfzxb.top/
-    term: Blog
-  - links:
-    - description: HLSL Shader
-      logo: icon_www_youtube_com.png
-      title: Ben Cloward-HLSL Shader
-      url: https://www.youtube.com/watch?v=MKio4MNM3CI
-    term: 视频教程
-  - links:
-    - description: Implementing a Soft Renderer for Learning CG.
-      logo: icon_github_com.png
-      title: YwSoftRenderer
-      url: https://github.com/yaukeywang/YwSoftRenderer
-    - description: Learn opengl together
-      logo: icon_github_com.png
-      title: start-learning-opengl
-      url: https://github.com/yocover/start-learning-opengl
-    - description: 本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（截止到2023.10.30）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
-      logo: icon_github_com.png
-      title: 《Real-Time Rendering 4th》 (RTR4) 中文翻译
-      url: https://github.com/Morakito/Real-Time-Rendering-4th-CN
-    - description: 'Dear ImGui: Bloat-free Graphical User interface for C++ with minimal
-        dependencies'
-      logo: icon_github_com.png
-      title: imgui
-      url: https://github.com/ocornut/imgui
-    - description: 这是一个基于URP的开源仿原神卡通渲染项目
-      logo: icon_github_com.png
-      title: GenshinCelShaderURP
-      url: https://github.com/Gaolingx/GenshinCelShaderURP
-    - description: Toon Shading Collection (for Character) 角色卡通渲染效果分析收集/速查手册/小百科
-      logo: icon_github_com.png
-      title: ToonShadingCollection
-      url: https://github.com/TechMiZ/ToonShadingCollection
-    - description: 记录学习Unity Shader过程中实现过的一些Demo。
-      logo: icon_github_com.png
-      title: LearnUnityShader
-      url: https://github.com/csdjk/LearnUnityShader
-    - description: Unity URP Shader 代码示例
-      logo: icon_github_com.png
-      title: URPShaderCodeSample
-      url: https://github.com/AnCG7/URPShaderCodeSample
-    - description: 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting,
-        normal mapping, and more for your 3D game.
-      logo: icon_github_com.png
-      title: 3d-game-shaders-for-beginners
-      url: https://github.com/lettier/3d-game-shaders-for-beginners
-    - description: 以历史的发展的眼光来看光线追踪技术，1968年至2018年重点论文相关算法复现。
-      logo: icon_github_com.png
-      title: 50YearsOfRayTracing
-      url: https://github.com/neil3d/50YearsOfRayTracing
-    - description: 公众号： 壹种念头 教程源码
-      logo: icon_github_com.png
-      title: CatCoding
-      url: https://github.com/hormanlu/CatCoding
-    - description: A brief computer graphics rendering course
-      logo: icon_github_com.png
-      title: tinyrenderer
-      url: https://github.com/ssloy/tinyrenderer
-    - description: A shader-based software renderer written from scratch in C89
-      logo: icon_github_com.png
-      title: renderer
-      url: https://github.com/zauonlok/renderer
-    - description: 'Shader2D: some 2d shader effect'
-      logo: icon_github_com.png
-      title: Shader2D
-      url: https://github.com/nightyan/Shader2D
-    - description: shader 中级教程
-      logo: icon_github_com.png
-      title: FishManShaderTutorial
-      url: https://github.com/JiepengTan/FishManShaderTutorial
-    - description: Step-by-step guide through the abstract and complex universe of
-        Fragment Shaders.
-      logo: icon_github_com.png
-      title: thebookofshaders
-      url: https://github.com/patriciogonzalezvivo/thebookofshaders
-    - description: Cross-platform 3D scene editor based on three.js, golang and mongodb
-        for desktop and web.
-      logo: icon_github_com.png
-      title: ShadowEditor
-      url: https://github.com/tengge1/ShadowEditor
-    - description: 3D C++ Game Engine - yet another open source game engine
-      logo: icon_github_com.png
-      title: LumixEngine
-      url: https://github.com/nem0/LumixEngine
-    - description: GLSL-Card
-      logo: icon_github_com.png
-      title: 着色器语言 GLSL (opengl-shader-language)入门大全
-      url: https://github.com/wshxbqq/GLSL-Card
-    - description: Convert ShaderToy to Unity HLSL/CG
-      logo: icon_github_com.png
-      title: ShaderMan
-      url: https://github.com/smkplus/ShaderMan
-    - description: ⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
-      logo: icon_github_com.png
-      title: Awesome-Unity-Shader
-      url: https://github.com/QianMo/Awesome-Unity-Shader
-    - description: Some demo created by Unity Shader
-      logo: icon_github_com.png
-      title: Unity-Shader-Demo
-      url: https://github.com/KaimaChen/Unity-Shader-Demo
-    term: Github
-  taxonomy: 技术美术
+    - description: 游戏程序媛 左手写码，右手舞剑
+      logo: bilibili_25149170.png
+      title: 周晓璇-
+      url: https://space.bilibili.com/25149170
+    - description: 资深程序员烬燃鼓励师，利用魔音灌耳，让您对学习编程充满信心！
+      logo: bilibili_319521269.png
+      title: 英雄哪里出来
+      url: https://space.bilibili.com/319521269
+    - description: 瞎混了40多年的职场老油条，一个爱闺女的老爸
+      logo: bilibili_259596787.png
+      title: 磐石老蜗牛
+      url: https://space.bilibili.com/259596787
+    - description: 像天上的云，散了又聚，聚了又散
+      logo: bilibili_129474304.png
+      title: JasperJia6
+      url: https://space.bilibili.com/129474304
+    term: 有点意思
+  taxonomy: 游戏开发
 - icon: fas fa-tools
   links: []
   list:
   - links:
-    - description: 独立游戏
+    - description: 在线格式化JSON文本
+      logo: json.cn.png
+      title: Json格式化
+      url: http://json.cn/
+    - description: 在线 JSON 工具，可以格式化 JSON 数据。
+      logo: icon_www_jyshare_com.png
+      title: 在线 JSON 工具
+      url: https://www.jyshare.com/front-end/53/
+    - description: 高质量图片压缩
       logo: test.png
-      title: TinyFlare
-      url: http://tinyflare.com/
-    - description: French indie game, XR, web and software developer. I love programming,
-        creating and hacking stuff.
-      logo: icon_dmayance_com.png
-      title: Damien Mayance
-      url: https://dmayance.com/
-    term: Github
+      title: tinypng
+      url: https://tinypng.com/
+    term: 在线工具
   - links:
-    - description: 专业模型创作分享社区
-      logo: icon_www_aplaybox_com.png
-      title: 模之屋
-      url: https://www.aplaybox.com/
-    - description: Bring your projects to life with 3D characters, skeletal rigs,
-        and animations, ready for use in film, games, interactive experiences and
-        illustration.
-      logo: icon_www_mixamo_com.png
-      title: mixamo
-      url: https://www.mixamo.com/
-    - description: 3D模型动作
-      logo: icon_sketchfab_com.png
-      title: Sketchfab
-      url: https://sketchfab.com/3d-models/popular
-    term: 模型
-  - links:
-    - description: the incomplete works of Madeline Stephanie Thorson lifelong maker
-        of games
-      logo: icon_www_maddymakesgames_com.png
-      title: MADDY MAKES GAMES
-      url: https://www.maddymakesgames.com/
-    term: 独立游戏
-  - links:
-    - description: 游戏开发资源
-      logo: icon_indienova_com.png
-      title: INDIENOVA-游戏开发资源
-      url: https://indienova.com/sp/gameDevResource
-    - description: PlayMaker
-      logo: icon_hutonggames_com.png
-      title: PlayMaker
-      url: https://hutonggames.com/
-    term: 临时
-  taxonomy: 独立游戏
+    - description: 一款基于纯C++实现的独立的Lua编辑和调试工具
+      logo: icon_github_com.png
+      title: LuaPerfect
+      url: https://github.com/jiangzheng1986/LuaPerfect
+    - description: Lua Profiler For Unity
+      logo: icon_github_com.png
+      title: Miku-LuaProfiler
+      url: https://github.com/leinlin/Miku-LuaProfiler
+    term: 开源工具
+  taxonomy: 常用工具
 - icon: fas fa-comments
   links:
   - description: Unity3D开发面试的刷题和记录
@@ -1534,205 +2170,3 @@
     title: 木木不甜-U3D面试题
     url: https://www.cnblogs.com/1217224194-jiang/tag/U3d%E9%9D%A2%E8%AF%95%E9%A2%98/
   taxonomy: 面试分享
-- icon: fas fa-computer
-  links: []
-  list:
-  - links:
-    - description: 廖雪峰的官方网站
-      logo: icon_liaoxuefeng_com.png
-      title: 廖雪峰的官方网站
-      url: https://liaoxuefeng.com/
-    - description: 享受编程和技术所带来的快乐 – Coding Your Ambition
-      logo: icon_coolshell_cn.png
-      title: 酷 壳 – CoolShell
-      url: https://coolshell.cn/
-    - description: 我有一个伟大的愿望。我希望凭借自己的努力，净化程序员的环境，提升程序员的地位。愿 IT 界再无黑心企业的剥削，无人自嘲 “码农”、“码畜”，技术人员受到足够尊重，写程序重新成为一种创造性的劳动。软件行业，重新成为令人羡慕的行业。自由、开放、创新、包容。
-      logo: icon_www_raychase_net.png
-      title: 四火的唠叨
-      url: https://www.raychase.net/
-    - description: 知道创宇研发技能表v3.1
-      logo: test.png
-      title: 知道创宇研发技能表v3.1
-      url: https://blog.knownsec.com/Knownsec_RD_Checklist/index.html
-    - description: Ubuntu 中文站点是关于 Ubuntu Linux 的中文支持站点，是一个 Ubuntu 官方所认可的社区，担负发行版中文翻译、开发、以及提供本地化支持的职能。   Ubuntu
-        中文 Wiki 是一个为 Ubuntu Linux 编写文档的非盈利性 Wiki 站点，我们在这里创作、改进、收集和整理 Ubuntu 相关的中文文档
-      logo: icon_wiki_ubuntu_org_cn.png
-      title: Ubuntu中文Wiki
-      url: https://wiki.ubuntu.org.cn/
-    - description: 编程与调试 图形学 机器学习
-      logo: icon_blog_hawkhai_com.png
-      title: NoteAI
-      url: https://blog.hawkhai.com/
-    - description: 🔥🔥「InterviewGuide」是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们计算机校招&秋招经验总结文章的汇总，包括但不限于C/C++
-        、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！
-      logo: icon_github_com.png
-      title: InterviewGuide
-      url: https://github.com/forthespada/InterviewGuide
-    - description: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版
-        汤小丹）
-      logo: icon_github_com.png
-      title: CS-Xmind-Note
-      url: https://github.com/SSHeRun/CS-Xmind-Note
-    - description: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode,
-        not only how, but also why.
-      logo: icon_github_com.png
-      title: fucking-algorithm
-      url: https://github.com/labuladong/fucking-algorithm
-    - description: 程序员应该访问的最佳网站中文版
-      logo: icon_github_com.png
-      title: Best-websites-a-programmer-should-visit-zh
-      url: https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
-    - description: 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-      logo: icon_github_com.png
-      title: interview_internal_reference
-      url: https://github.com/0voice/interview_internal_reference
-    - description: Freely available programming books
-      logo: icon_github_com.png
-      title: free-programming-books
-      url: https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
-    - description: 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
-      logo: icon_github_com.png
-      title: interview
-      url: https://github.com/huihut/interview
-    - description: ✏️ 算法相关知识储备 LeetCode with Python and JavaScript 📚
-      logo: icon_github_com.png
-      title: leetCode
-      url: https://github.com/HuberTRoy/leetCode
-    - description: 浙江大学课程攻略共享计划
-      logo: icon_github_com.png
-      title: zju-icicles
-      url: https://github.com/QSCTech/zju-icicles
-    - description: OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点，大家可以在这里获取与竞赛相关的、有趣又实用的知识。我们为大家准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等内容，帮助大家更快速深入地学习编程竞赛中涉及到的知识。
-      logo: icon_oi-wiki_org.png
-      title: OI Wiki
-      url: https://oi-wiki.org/
-    - description: 成为专业程序员路上用到的各种优秀资料、神器及框架
-      logo: icon_github_com.png
-      title: be-a-professional-programmer
-      url: https://github.com/stanzhai/be-a-professional-programmer
-    - description: 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-      logo: icon_cyc2018_xyz.png
-      title: CS-Notes 面试笔记
-      url: https://cyc2018.xyz/
-    - description: Learn how to design large-scale systems. Prep for the system design
-        interview. Includes Anki flashcards.
-      logo: icon_github_com.png
-      title: system-design-primer
-      url: https://github.com/donnemartin/system-design-primer
-    term: Blog大牛
-  - links:
-    - description: Lua官网
-      logo: icon_www_lua_org.png
-      title: Lua
-      url: https://www.lua.org/
-    - description: Lua 5.3 参考手册-云风
-      logo: icon_www_lua_org.png
-      title: Lua 5.3 参考手册
-      url: https://cloudwu.github.io/lua53doc/contents.html
-    - description: C++高性能服务器框架
-      logo: icon_www_sylar_top.png
-      title: sylar的博客
-      url: http://www.sylar.top/blog/
-    - description: 中文，免费，零起点，完整示例，基于最新的Python 3版本
-      logo: icon_liaoxuefeng_com.png
-      title: Python 3教程-廖雪峰
-      url: https://liaoxuefeng.com/books/python/introduction/index.html
-    - description: 先做人，再做技术人员，最后做程序员。打造国内最好的.NET技术博客。
-      logo: icon_blog_zhaojie_me.png
-      title: 老赵点滴 - 追求编程之美
-      url: http://blog.zhaojie.me/
-    - description: A curated list of awesome C++ (or C) frameworks, libraries, resources,
-        and shiny things.
-      logo: icon_github_com.png
-      title: awesome-cpp
-      url: https://github.com/fffaraz/awesome-cpp
-    - description: C# 指南包含文章、教程和代码示例，可帮助你开始使用 C# 和 .NET 平台。 经验丰富的开发人员可以在“新增功能”部分了解新功能。
-        经验丰富的开发人员可以从参考和语言规范中了解语言行为的详细信息。
-      logo: icon_learn_microsoft_com.png
-      title: C# 语言文档-微软官方
-      url: https://learn.microsoft.com/zh-cn/dotnet/csharp/
-    - description: Effective C# 改善C#程序的50种方法
-      logo: test.png
-      title: Effective C# 改善C#程序的50种方法
-      url: https://wizardforcel.gitbooks.io/effective-csharp/content/index.html
-    - description: .NET and Windows App Developer, Microsoft MVP
-      logo: icon_blog_walterlv_com.png
-      title: 吕毅
-      url: https://blog.walterlv.com/about/
-    - description: C#.Net筑基
-      logo: icon_www_cnblogs_com.png
-      title: /*梦里花落知多少*/-@安木夕
-      url: https://www.cnblogs.com/anding
-    - description: 在香港做程序员的北京人。2012年起至现在一直从事.NET平台的C#开发。平时喜欢研究技术，广交朋友，锻炼身体，和朋友聚会扯淡。
-      logo: icon_www_cnblogs_com.png
-      title: Due勤奋的猪
-      url: https://www.cnblogs.com/haoyifei
-    - description: 菜鸟教程 - 学的不仅是技术，更是梦想！
-      logo: icon_www_runoob_com.png
-      title: 菜鸟教程
-      url: https://www.runoob.com/
-    term: 编程语言
-  - links:
-    - description: LeetCode
-      logo: icon_leetcode_com.png
-      title: LeetCode
-      url: https://leetcode.com/
-    - description: LeetCode中文
-      logo: icon_leetcode_com.png
-      title: 力扣
-      url: https://leetcode.cn/
-    - description: LeetCode算法比赛解析
-      logo: icon_github_tiankonguse_com.png
-      title: tiankonguse's 代码世界
-      url: https://github.tiankonguse.com/
-    - description: LeetCode 一句话题解
-      logo: icon_github_com.png
-      title: leetcode-zhuli
-      url: https://github.com/zhuli19901106/leetcode-zhuli
-    - description: 浙江大学PAT题解/LeetCode Online Judge刷题题解/蓝桥杯竞赛练习题的题解
-      logo: icon_www_liuchuo_net.png
-      title: liuchuo-柳婼
-      url: https://www.liuchuo.net/
-    - description: 浙江大学PAT题解/LeetCode Online Judge刷题题解/蓝桥杯竞赛练习题的题解
-      logo: icon_github_com.png
-      title: liuchuo-柳婼
-      url: https://github.com/liuchuo
-    term: 数据结构与算法
-  - links: []
-    term: 网络与操作系统
-  - links: []
-    term: 数据库
-  - links:
-    - description: Git 的奇技淫巧
-      logo: icon_github_com.png
-      title: git-tips
-      url: https://github.com/521xueweihan/git-tips
-    term: 版本管理
-  taxonomy: 计算机基础
-- icon: fas fa-tools
-  links: []
-  list:
-  - links:
-    - description: 在线格式化JSON文本
-      logo: json.cn.png
-      title: Json格式化
-      url: http://json.cn/
-    - description: 在线 JSON 工具，可以格式化 JSON 数据。
-      logo: icon_www_jyshare_com.png
-      title: 在线 JSON 工具
-      url: https://www.jyshare.com/front-end/53/
-    term: 在线工具
-  - links:
-    - description: 一款基于纯C++实现的独立的Lua编辑和调试工具
-      logo: icon_github_com.png
-      title: LuaPerfect
-      url: https://github.com/jiangzheng1986/LuaPerfect
-    - description: Lua Profiler For Unity
-      logo: icon_github_com.png
-      title: Miku-LuaProfiler
-      url: https://github.com/leinlin/Miku-LuaProfiler
-    term: 开源工具
-  taxonomy: 常用工具
-- icon: fas fa-gamepad
-  links: []
-  taxonomy: 游戏必玩佳作
